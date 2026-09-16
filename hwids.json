@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "updated": "2026-09-16 11:42:00",
+  "hwids": {
+    "HD-6191-83E6-6475-BB2C": {
+      "enabled": true,
+      "expire": "2027-09-16"
+    },
+    "HD-DE0D-D6E8-E47E-BD7E": {
+      "enabled": true,
+      "expire": "2027-09-16"
+    }
+  }
+}
