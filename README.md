@@ -1,6 +1,8 @@
 # HoangDuc ALL In One Tool
 
-Bản cài: **V199**
+Bản cài: **V200**
+
+Tải file EXE ở tab **Releases**. File `version.json` bắt buộc cập nhật: bản thấp hơn `min_version` không dùng được.
 
 Tải file EXE ở tab **Releases** (không clone repo).
 

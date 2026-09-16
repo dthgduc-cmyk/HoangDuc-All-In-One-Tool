@@ -1,0 +1,7 @@
+{
+  "version": "200",
+  "min_version": "200",
+  "min_size": 40000000,
+  "exe_url": "https://github.com/dthgduc-cmyk/HoangDuc-All-In-One-Tool/releases/latest/download/HoangDuc_All_In_One_Tool_V200.exe",
+  "notes": "V200: bắt buộc cập nhật từ GitHub. Bản cũ không dùng được. Cập nhật xong sẽ xóa EXE cũ."
+}
