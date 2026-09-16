@@ -1,0 +1,4 @@
+*.exe
+*.pem
+keys.json
+*.hdkey
