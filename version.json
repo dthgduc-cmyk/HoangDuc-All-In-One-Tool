@@ -1,7 +1,7 @@
 {
-  "version": "215",
-  "min_version": "215",
+  "version": "216",
+  "min_version": "216",
   "min_size": 40000000,
-  "exe_url": "https://github.com/dthgduc-cmyk/HoangDuc-All-In-One-Tool/releases/latest/download/HoangDuc_All_In_One_Tool_V215.exe",
-  "notes": "Nâng cấp chức năng tool"
+  "exe_url": "https://github.com/dthgduc-cmyk/HoangDuc-All-In-One-Tool/releases/latest/download/HoangDuc_All_In_One_Tool_V216.exe",
+  "notes": "V216: BUILD SUPER VOLTE Android 11+ (EROFS/EXT4 tự nhận, lưu cạnh file). BUILD modem Qualcomm Realme 5. Sửa cờ VoLTE vendor EROFS."
 }
