@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-18 15:38:52",
+  "updated": "2026-09-18 16:01:33",
   "hwids": {
     "HD-73FE-AEF6-40D8-40AE": {
       "enabled": true,
@@ -133,6 +133,11 @@
       "wipe": false
     },
     "HD-42AD-2FF6-453A-1F48": {
+      "enabled": true,
+      "expire": "2027-09-18",
+      "wipe": false
+    },
+    "HD-9135-C7C1-0052-32B7": {
       "enabled": true,
       "expire": "2027-09-18",
       "wipe": false
