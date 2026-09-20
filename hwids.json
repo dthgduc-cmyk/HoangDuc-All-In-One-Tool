@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-20 19:24:08",
+  "updated": "2026-09-20 19:24:13",
   "hwids": {
     "HD-73FE-AEF6-40D8-40AE": {
       "enabled": true,
@@ -68,6 +68,11 @@
       "wipe": false
     },
     "HD-81CF-1CEA-5D75-58DA": {
+      "enabled": true,
+      "expire": "2027-09-18",
+      "wipe": false
+    },
+    "HD-E66C-7E80-6F5E-9AB0": {
       "enabled": true,
       "expire": "2027-09-18",
       "wipe": false
@@ -168,11 +173,6 @@
       "wipe": false
     },
     "HD-E974-210B-5644-01AA": {
-      "enabled": true,
-      "expire": "2027-09-18",
-      "wipe": false
-    },
-    "HD-E66C-7E80-6F5E-9AB0": {
       "enabled": true,
       "expire": "2027-09-18",
       "wipe": false
