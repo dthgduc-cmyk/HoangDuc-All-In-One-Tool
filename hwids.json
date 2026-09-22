@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-23 01:15:05",
+  "updated": "2026-09-23 01:15:10",
   "hwids": {
     "HD-73FE-AEF6-40D8-40AE": {
       "enabled": true,
@@ -125,6 +125,11 @@
     "HD-AABB-CCDD-EEFF-0001": {
       "enabled": false,
       "expire": "",
+      "wipe": false
+    },
+    "HD-AABB-CCDD-EEFF-0002": {
+      "enabled": true,
+      "expire": "2026-10-23",
       "wipe": false
     },
     "HD-18FF-8A86-6574-24EC": {
@@ -535,11 +540,6 @@
     "HD-B764-8CC9-64B2-CA92": {
       "enabled": true,
       "expire": "2027-09-20",
-      "wipe": false
-    },
-    "HD-AABB-CCDD-EEFF-0002": {
-      "enabled": true,
-      "expire": "2026-10-23",
       "wipe": false
     }
   }
