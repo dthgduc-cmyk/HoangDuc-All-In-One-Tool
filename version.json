@@ -1,8 +1,8 @@
 {
-  "version": "297",
-  "min_version": "297",
+  "version": "298",
+  "min_version": "298",
   "min_size": 40000000,
-  "exe_url": "https://github.com/dthgduc-cmyk/HoangDuc-All-In-One-Tool/releases/download/V297/HoangDuc_All_In_One_Tool_V297.exe",
-  "notes": "Nâng cấp chức năng tool",
-  "updated": "2026-09-24 07:53:02"
+  "exe_url": "https://github.com/dthgduc-cmyk/HoangDuc-All-In-One-Tool/releases/download/V298/HoangDuc_All_In_One_Tool_V298.exe",
+  "notes": "V298 bat buoc cap nhat — xoa ban cu V297 (go chu hang tren nut BUILD, khoa nhat ky noi bo)",
+  "updated": "2026-09-24 19:45:00"
 }
