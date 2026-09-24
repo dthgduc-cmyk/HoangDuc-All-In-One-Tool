@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-25 05:08:17",
+  "updated": "2026-09-25 05:37:19",
   "hwids": {
     "HD-73FE-AEF6-40D8-40AE": {
       "enabled": true,
@@ -807,6 +807,12 @@
       "expire": "2027-09-25",
       "wipe": false,
       "ticket": "8a9f5e633bacc4549f78b81b0cae1a6c11d2b517eedf51b834c6298b4b1d4376"
+    },
+    "HD-F4FD-8A19-9A25-C216": {
+      "enabled": true,
+      "expire": "2027-09-25",
+      "wipe": false,
+      "ticket": "d88f13cf73319162feac1ebf31ae75f16dfb7e160c13c507e27e7b945102bbf6"
     }
   }
 }
