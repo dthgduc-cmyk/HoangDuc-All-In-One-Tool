@@ -1,0 +1,4 @@
+{
+  "name": "HoangDuc All-In-One Tool — Manifests",
+  "install": "python3 scripts/validate_manifests.py"
+}
