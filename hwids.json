@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-25 01:45:03",
+  "updated": "2026-09-25 02:51:29",
   "hwids": {
     "HD-73FE-AEF6-40D8-40AE": {
       "enabled": true,
@@ -23,32 +23,27 @@
     "HD-A205-71FF-201F-AB04": {
       "enabled": false,
       "expire": "",
-      "wipe": false,
-      "ticket": "2087087a764cd07be7c115683bca38dda4dd195fec88d188512a50492bc353fb"
+      "wipe": false
     },
     "HD-D818-E501-A24B-7A47": {
       "enabled": false,
       "expire": "",
-      "wipe": false,
-      "ticket": "328eeba489eb5deb06b27de33b12cd802db157909d8e8a051e5f78d742481d57"
+      "wipe": false
     },
     "HD-66C0-6EFD-7611-0475": {
       "enabled": false,
       "expire": "",
-      "wipe": false,
-      "ticket": "515c18f2cdd0e83608ec1ec67f7d3eb0090076d9563188712b9fedb5b939b7dc"
+      "wipe": false
     },
     "HD-5B7E-C2D3-AD5E-BD1A": {
       "enabled": false,
       "expire": "",
-      "wipe": false,
-      "ticket": "a1471adac2b2734334f6f151f5e051623f90453c5e4cbb066d17cc508fee7201"
+      "wipe": false
     },
     "HD-B30C-F5DD-A4BF-D807": {
       "enabled": false,
       "expire": "",
-      "wipe": false,
-      "ticket": "13bb41c3038cfa44ed59d45531496f5155f46c6daefd39d9532f6a96c4dc708c"
+      "wipe": false
     },
     "HD-241F-99F9-1871-F3AE": {
       "enabled": true,
@@ -83,8 +78,7 @@
     "HD-81CF-1CEA-5D75-58DA": {
       "enabled": false,
       "expire": "",
-      "wipe": false,
-      "ticket": "55aa44879b96b7255b37bf52592177542c8ee541a0716319c78d8a40bd98aa0f"
+      "wipe": false
     },
     "HD-E66C-7E80-6F5E-9AB0": {
       "enabled": true,
@@ -101,8 +95,7 @@
     "HD-8AD1-63BF-9A89-4F09": {
       "enabled": false,
       "expire": "",
-      "wipe": false,
-      "ticket": "0049e46d52cd2ad44357d2bac20f838dfeb64713fbc2404a5ddf9e76acdd9aff"
+      "wipe": false
     },
     "HD-3396-BA62-B6D5-69A2": {
       "enabled": true,
@@ -125,20 +118,17 @@
     "HD-3514-52F5-E3B2-0A2F": {
       "enabled": false,
       "expire": "",
-      "wipe": false,
-      "ticket": "b38a7b2e5a10974c813c2f5b32b3bf862753bba30731a4c365f5367cf79307d9"
+      "wipe": false
     },
     "HD-30A5-36DC-6B97-6266": {
       "enabled": false,
       "expire": "",
-      "wipe": false,
-      "ticket": "c03801b82dd9cea7527534d34a0d6dd595851cb001a5d849e6810f5892cbbab2"
+      "wipe": false
     },
     "HD-5A58-BDAE-1EA4-B568": {
       "enabled": false,
       "expire": "",
-      "wipe": false,
-      "ticket": "2bcb867c9a73c069a18b2224ecbbf8d51ec35e68597e7cdd66e368ce72eeb2d1"
+      "wipe": false
     },
     "HD-3CC8-279C-0B74-7E7F": {
       "enabled": true,
@@ -149,14 +139,12 @@
     "HD-AABB-CCDD-EEFF-0001": {
       "enabled": false,
       "expire": "",
-      "wipe": false,
-      "ticket": "b9d08bbeabb07dccda9371e0394201d5c484ed05870d0b7a60e147c574b24ca9"
+      "wipe": false
     },
     "HD-AABB-CCDD-EEFF-0002": {
       "enabled": false,
       "expire": "2026-10-23",
-      "wipe": false,
-      "ticket": "3918b795b081b239914f1f40054797c18f52a93b63a9b5615cc5f7380bb332cd"
+      "wipe": false
     },
     "HD-EEC2-A263-8463-63C7": {
       "enabled": true,
@@ -167,8 +155,7 @@
     "HD-D367-1A33-140B-64B3": {
       "enabled": false,
       "expire": "",
-      "wipe": false,
-      "ticket": "bb89cfb271657a1c43aba3e924681de5131907b69b5e200fb17e43277f6f4663"
+      "wipe": false
     },
     "HD-3000-D6A7-0FDD-D225": {
       "enabled": true,
@@ -179,14 +166,12 @@
     "HD-3153-15EC-93D0-5881": {
       "enabled": false,
       "expire": "",
-      "wipe": false,
-      "ticket": "beaaa5596e795992ca767355d8909d0d6757f8bf6f51345e3315921f3db7e1d9"
+      "wipe": false
     },
     "HD-B320-FE32-DDF4-FE27": {
       "enabled": false,
       "expire": "",
-      "wipe": false,
-      "ticket": "8a79a1fe5cf81371c47db292e798051e9e7226b336dd51c85585b2bbb3dab46e"
+      "wipe": false
     },
     "HD-467A-CA2C-3283-C421": {
       "enabled": true,
@@ -197,8 +182,7 @@
     "HD-F098-772A-A080-5D8C": {
       "enabled": false,
       "expire": "",
-      "wipe": false,
-      "ticket": "2da13719d406c491cf43aab56d43eef320881adb969133afc426935250cdd93e"
+      "wipe": false
     },
     "HD-18FF-8A86-6574-24EC": {
       "enabled": true,
@@ -787,6 +771,12 @@
       "expire": "2027-09-25",
       "wipe": false,
       "ticket": "0c60d371804e0294895801b5b921ee01b195917a65e34204a9723d56ef378bf0"
+    },
+    "HD-5B74-51CD-5D7A-33CB": {
+      "enabled": true,
+      "expire": "2027-09-25",
+      "wipe": false,
+      "ticket": "e69bb98686e4fe4cc6ef5bc521f90287bad4528a59c70b047f4366b9f9b15506"
     }
   }
 }
