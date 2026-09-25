@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-26 01:11:00",
+  "updated": "2026-09-26 01:16:01",
   "hwids": {
     "HD-73FE-AEF6-40D8-40AE": {
       "enabled": true,
@@ -234,6 +234,11 @@
       "wipe": false
     },
     "HD-4CCC-3BC6-B7F4-7278": {
+      "enabled": false,
+      "expire": "",
+      "wipe": false
+    },
+    "HD-57B2-F31B-B7D8-B772": {
       "enabled": false,
       "expire": "",
       "wipe": false
@@ -891,12 +896,6 @@
       "expire": "2027-09-25",
       "wipe": false,
       "ticket": "e9dae3a5d3fa315e0d6fc2523d00f105ec17ff349bfe5816da8bd98c2b4c8914"
-    },
-    "HD-57B2-F31B-B7D8-B772": {
-      "enabled": true,
-      "expire": "2027-09-19",
-      "wipe": false,
-      "ticket": "a8698d701f8b1c067ee525b0d2ed10e250e3b0aa6ed0efc8c9a1333becc4424c"
     }
   }
 }
