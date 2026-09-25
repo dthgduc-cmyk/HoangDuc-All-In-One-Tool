@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-26 01:32:17",
+  "updated": "2026-09-26 01:47:57",
   "hwids": {
     "HD-73FE-AEF6-40D8-40AE": {
       "stats": {},
@@ -551,6 +551,10 @@
       "last_ok": {}
     },
     "HD-2094-0FAE-9B9D-51A0": {
+      "stats": {},
+      "last_ok": {}
+    },
+    "HD-FD79-95B1-1D4A-6F5E": {
       "stats": {},
       "last_ok": {}
     }
