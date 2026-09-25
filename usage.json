@@ -1,0 +1,677 @@
+{
+  "ok": true,
+  "updated": "2026-09-25 22:33:04",
+  "hwids": {
+    "HD-TEST-0000-0000-0001": {
+      "stats": {
+        "BUILD": {
+          "try": 1,
+          "ok": 1
+        }
+      },
+      "last_ok": {
+        "feature": "BUILD",
+        "time": "2026-09-25 22:29:41"
+      }
+    },
+    "HD-73FE-AEF6-40D8-40AE": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Nguyen Quoc Viet"
+    },
+    "HD-18FF-8A86-6574-24EC": {
+      "stats": {},
+      "last_ok": {},
+      "name": "thay quang ha"
+    },
+    "HD-7C93-473D-EBFB-FC58": {
+      "stats": {},
+      "last_ok": {},
+      "name": "anh NGhia"
+    },
+    "HD-AA09-8CF9-6D5C-0058": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Vũ Đình Hậu"
+    },
+    "HD-C61A-B830-790B-4CD2": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Hoàng văn dúc"
+    },
+    "HD-9BC5-A499-9650-017D": {
+      "stats": {},
+      "last_ok": {},
+      "name": "ma tay do"
+    },
+    "HD-F3BE-62E1-45EA-8E64": {
+      "stats": {},
+      "last_ok": {},
+      "name": "nguyen duc"
+    },
+    "HD-BFBA-CE34-8861-0F4F": {
+      "stats": {},
+      "last_ok": {},
+      "name": "nguyen van kien"
+    },
+    "HD-E785-F606-90B0-777A": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Phuongvu1980@"
+    },
+    "HD-737D-D3A1-AFE3-76B9": {
+      "stats": {},
+      "last_ok": {},
+      "name": "kai"
+    },
+    "HD-5022-CDB5-7409-738E": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Thang"
+    },
+    "HD-2539-56AD-F3FF-1A05": {
+      "stats": {},
+      "last_ok": {},
+      "name": "le thanh vinh"
+    },
+    "HD-04B1-C55B-4418-0678": {
+      "stats": {},
+      "last_ok": {},
+      "name": "pham van manh"
+    },
+    "HD-ED36-B553-A127-CD0A": {
+      "stats": {},
+      "last_ok": {},
+      "name": "van kha"
+    },
+    "HD-478F-E62E-A16D-19DA": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Tieu vu"
+    },
+    "HD-E95E-1F2F-C6A5-791D": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Hue tung"
+    },
+    "HD-E1E6-D305-31A1-6943": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Ngo trong Son"
+    },
+    "HD-5FCF-6B98-DEC2-721A": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Dang  KHoa"
+    },
+    "HD-E974-210B-5644-01AA": {
+      "stats": {},
+      "last_ok": {},
+      "name": "HOang"
+    },
+    "HD-E66C-7E80-6F5E-9AB0": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Hoang"
+    },
+    "HD-399C-6D68-27B3-0127": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Hoang"
+    },
+    "HD-96E5-5855-AF5E-E304": {
+      "stats": {},
+      "last_ok": {},
+      "name": "anh duc"
+    },
+    "HD-42AD-2FF6-453A-1F48": {
+      "stats": {},
+      "last_ok": {},
+      "name": "huy canh"
+    },
+    "HD-9135-C7C1-0052-32B7": {
+      "stats": {},
+      "last_ok": {},
+      "name": "quang tai"
+    },
+    "HD-D29C-7AE0-0C11-67B4": {
+      "stats": {},
+      "last_ok": {},
+      "name": "hoat mobile"
+    },
+    "HD-50C8-CFC1-80A3-9D96": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Quoc duy"
+    },
+    "HD-C656-B80E-2613-DB83": {
+      "stats": {},
+      "last_ok": {},
+      "name": "quang teo"
+    },
+    "HD-633F-434F-ADD5-33A3": {
+      "stats": {},
+      "last_ok": {},
+      "name": "hieu"
+    },
+    "HD-6EE1-778E-9BA2-EC21": {
+      "stats": {},
+      "last_ok": {},
+      "name": "quyen monile"
+    },
+    "HD-94DE-B61D-A9F0-1088": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Huu Hai"
+    },
+    "HD-8309-CFBC-12B1-8343": {
+      "stats": {},
+      "last_ok": {},
+      "name": "mai hong ke"
+    },
+    "HD-BE2D-1DD2-4EDD-B75F": {
+      "stats": {},
+      "last_ok": {},
+      "name": "trung nga"
+    },
+    "HD-3E4D-9F68-C262-FE1E": {
+      "stats": {},
+      "last_ok": {},
+      "name": "trung"
+    },
+    "HD-645E-0B73-6E04-A13E": {
+      "stats": {},
+      "last_ok": {},
+      "name": "phuong nam"
+    },
+    "HD-3396-BA62-B6D5-69A2": {
+      "stats": {},
+      "last_ok": {},
+      "name": "thay quang ha"
+    },
+    "HD-D4FC-3E52-9206-C49D": {
+      "stats": {},
+      "last_ok": {},
+      "name": "dinh long"
+    },
+    "HD-39D5-7D6C-21FD-7FB4": {
+      "stats": {},
+      "last_ok": {},
+      "name": "thanh phat"
+    },
+    "HD-8645-AA4F-F54A-8309": {
+      "stats": {},
+      "last_ok": {},
+      "name": "anh quoc"
+    },
+    "HD-C7D6-C7A6-16D8-934F": {
+      "stats": {},
+      "last_ok": {},
+      "name": "anh nghia"
+    },
+    "HD-FEE4-1995-8115-BB79": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Thanh nam"
+    },
+    "HD-83C4-186A-F772-6855": {
+      "stats": {},
+      "last_ok": {},
+      "name": "dinh cong khuong"
+    },
+    "HD-7BC8-4950-E4D4-7743": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Dang hiep"
+    },
+    "HD-E557-ABBE-DEA7-9B73": {
+      "stats": {},
+      "last_ok": {},
+      "name": "quang dat mobile"
+    },
+    "HD-241F-99F9-1871-F3AE": {
+      "stats": {},
+      "last_ok": {},
+      "name": "linh"
+    },
+    "HD-3CC8-279C-0B74-7E7F": {
+      "stats": {},
+      "last_ok": {},
+      "name": "ha dung"
+    },
+    "HD-4142-A442-7310-C295": {
+      "stats": {},
+      "last_ok": {},
+      "name": "kien Hoang"
+    },
+    "HD-4E8E-AFE9-B013-52B4": {
+      "stats": {},
+      "last_ok": {},
+      "name": "NGuyen tuoi"
+    },
+    "HD-04F1-B77B-D668-C10B": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Le Quang"
+    },
+    "HD-0EF3-2D23-AB3A-2887": {
+      "stats": {},
+      "last_ok": {},
+      "name": "duong tuan"
+    },
+    "HD-29EC-7304-C0E5-2C5E": {
+      "stats": {},
+      "last_ok": {},
+      "name": "vu trong"
+    },
+    "HD-C0E6-C10C-A470-CA16": {
+      "stats": {},
+      "last_ok": {},
+      "name": "minh  nguyen"
+    },
+    "HD-1D12-B696-CA95-039D": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Nguyễn Văn Hùng"
+    },
+    "HD-E448-48AD-8251-B287": {
+      "stats": {},
+      "last_ok": {},
+      "name": "điện thoại thành vinh"
+    },
+    "HD-3AF1-2BA6-8F10-1D19": {
+      "stats": {},
+      "last_ok": {},
+      "name": "quan hien"
+    },
+    "HD-78F0-41FE-BB4F-47AF": {
+      "stats": {},
+      "last_ok": {},
+      "name": "viet anh"
+    },
+    "HD-1AF3-8B5E-D881-D75B": {
+      "stats": {},
+      "last_ok": {},
+      "name": "viet anh"
+    },
+    "HD-4657-0932-B184-0E8D": {
+      "stats": {},
+      "last_ok": {},
+      "name": "dung"
+    },
+    "HD-D1A8-9DED-7A03-83CF": {
+      "stats": {},
+      "last_ok": {},
+      "name": "thuận phát"
+    },
+    "HD-7E41-F56D-FD6F-013C": {
+      "stats": {},
+      "last_ok": {},
+      "name": "tryng"
+    },
+    "HD-B410-310B-F927-07CA": {
+      "stats": {},
+      "last_ok": {},
+      "name": "aaaa"
+    },
+    "HD-8FAA-FA95-C9B7-91D3": {
+      "stats": {},
+      "last_ok": {},
+      "name": "lam vu nguyen"
+    },
+    "HD-2F55-0A55-44F5-8B69": {
+      "stats": {},
+      "last_ok": {},
+      "name": "khuong"
+    },
+    "HD-27C7-E0DD-7F39-9B12": {
+      "stats": {},
+      "last_ok": {},
+      "name": "nam bao"
+    },
+    "HD-318E-29F2-8A8C-7324": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Phuong nam"
+    },
+    "HD-071C-C77B-E88C-2003": {
+      "stats": {},
+      "last_ok": {},
+      "name": "linh nguyen"
+    },
+    "HD-6971-CA89-C39D-E541": {
+      "stats": {},
+      "last_ok": {},
+      "name": "pham vinh"
+    },
+    "HD-4EA6-8390-FF5C-3F69": {
+      "stats": {},
+      "last_ok": {},
+      "name": "pham vinh"
+    },
+    "HD-D603-1370-3A76-BF49": {
+      "stats": {},
+      "last_ok": {},
+      "name": "minh tien mobile"
+    },
+    "HD-6741-A11E-838D-B162": {
+      "stats": {},
+      "last_ok": {},
+      "name": "thanh tuan"
+    },
+    "HD-9FF1-9113-2B88-2DB6": {
+      "stats": {},
+      "last_ok": {},
+      "name": "hao dien thoai"
+    },
+    "HD-3FDF-0E42-DD6C-C0DA": {
+      "stats": {},
+      "last_ok": {},
+      "name": "binh tran"
+    },
+    "HD-D715-E486-EDBF-9B1A": {
+      "stats": {},
+      "last_ok": {},
+      "name": "trung duc"
+    },
+    "HD-6FE4-1229-0826-6AC4": {
+      "stats": {},
+      "last_ok": {},
+      "name": "lev tan tai"
+    },
+    "HD-22B6-FF64-8175-0B9E": {
+      "stats": {},
+      "last_ok": {},
+      "name": "hau vi"
+    },
+    "HD-351C-D634-2C1D-9600": {
+      "stats": {},
+      "last_ok": {},
+      "name": "minh tien monile"
+    },
+    "HD-4B4C-701A-E308-A836": {
+      "stats": {},
+      "last_ok": {},
+      "name": "NGuyen van thanh"
+    },
+    "HD-F495-ED7A-9427-C459": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Ho van them"
+    },
+    "HD-4C22-105F-607B-FD14": {
+      "stats": {},
+      "last_ok": {},
+      "name": "duy chien"
+    },
+    "HD-F39D-1533-78FC-4A1B": {
+      "stats": {},
+      "last_ok": {},
+      "name": "dat nguyen"
+    },
+    "HD-F6B5-156E-8FAD-F1DC": {
+      "stats": {},
+      "last_ok": {},
+      "name": "duy loi"
+    },
+    "HD-F5EE-FD95-45AD-FD3C": {
+      "stats": {},
+      "last_ok": {},
+      "name": "tran duong"
+    },
+    "HD-40D5-48D2-F8FC-22BC": {
+      "stats": {},
+      "last_ok": {},
+      "name": "trang apple"
+    },
+    "HD-EC4E-E989-2BD4-5E00": {
+      "stats": {},
+      "last_ok": {},
+      "name": "ha dung"
+    },
+    "HD-EB68-ECCA-24C7-746C": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Le sy"
+    },
+    "HD-F56E-44E4-DE85-9E56": {
+      "stats": {},
+      "last_ok": {},
+      "name": "nguyuen trung kien"
+    },
+    "HD-66CB-70E0-E41E-A4BA": {
+      "stats": {},
+      "last_ok": {},
+      "name": "duong"
+    },
+    "HD-DFFE-6BCE-EB68-97D2": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Nguyễn Thanh Hải"
+    },
+    "HD-2377-283E-D154-040D": {
+      "stats": {},
+      "last_ok": {},
+      "name": "anh tuan"
+    },
+    "HD-B764-8CC9-64B2-CA92": {
+      "stats": {},
+      "last_ok": {},
+      "name": "hungvymo"
+    },
+    "HD-AABB-CCDD-EEFF-0002": {
+      "stats": {},
+      "last_ok": {},
+      "name": "TEST_CHECK"
+    },
+    "HD-A5AF-286B-106F-531D": {
+      "stats": {},
+      "last_ok": {},
+      "name": "cong phuong"
+    },
+    "HD-EEC2-A263-8463-63C7": {
+      "stats": {},
+      "last_ok": {},
+      "name": "vy mobile"
+    },
+    "HD-4B7E-8CDA-A819-BE09": {
+      "stats": {},
+      "last_ok": {},
+      "name": "le kha"
+    },
+    "HD-37B1-64C7-7813-8DE0": {
+      "stats": {},
+      "last_ok": {},
+      "name": "xuan quy"
+    },
+    "HD-2F00-7FE4-BCFC-04B6": {
+      "stats": {},
+      "last_ok": {},
+      "name": "duc khanh"
+    },
+    "HD-F73A-7DD9-2F53-C789": {
+      "stats": {},
+      "last_ok": {}
+    },
+    "HD-5385-30FA-1B1B-F18C": {
+      "stats": {},
+      "last_ok": {},
+      "name": "cong thang"
+    },
+    "HD-9116-0E73-F727-0445": {
+      "stats": {},
+      "last_ok": {},
+      "name": "tran van nghia"
+    },
+    "HD-3000-D6A7-0FDD-D225": {
+      "stats": {},
+      "last_ok": {},
+      "name": "dat hoang"
+    },
+    "HD-E4BC-B619-6DAE-23F3": {
+      "stats": {},
+      "last_ok": {},
+      "name": "nguyen manh tuyen"
+    },
+    "HD-E1BB-85A1-FB23-A5C3": {
+      "stats": {},
+      "last_ok": {},
+      "name": "hai yen mobile"
+    },
+    "HD-AAEC-4C43-3FFF-0B39": {
+      "stats": {},
+      "last_ok": {},
+      "name": "the gioi alo"
+    },
+    "HD-3AF1-2F17-EDB4-E7BF": {
+      "stats": {},
+      "last_ok": {},
+      "name": "minh hai"
+    },
+    "HD-1F82-C4DF-2F1A-7D12": {
+      "stats": {},
+      "last_ok": {},
+      "name": "tp"
+    },
+    "HD-467A-CA2C-3283-C421": {
+      "stats": {},
+      "last_ok": {},
+      "name": "HD-F098-772A-A080-5D8C"
+    },
+    "HD-48F9-EB03-5D41-E96B": {
+      "stats": {},
+      "last_ok": {},
+      "name": "nguyen thanh kiet"
+    },
+    "HD-E445-C3E3-7D1D-255E": {
+      "stats": {},
+      "last_ok": {},
+      "name": "truong mobile"
+    },
+    "HD-3E06-C102-3623-FF87": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Tung Nd"
+    },
+    "HD-D34B-3515-5342-C369": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Munh vuong"
+    },
+    "HD-53EF-7A94-1875-0EA8": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Ha thang"
+    },
+    "HD-66F5-C1DB-682B-92AA": {
+      "stats": {},
+      "last_ok": {},
+      "name": "nguyen phong"
+    },
+    "HD-6EE5-A2A0-7319-E290": {
+      "stats": {},
+      "last_ok": {},
+      "name": "dtdd dng loc"
+    },
+    "HD-5B74-51CD-5D7A-33CB": {
+      "stats": {},
+      "last_ok": {},
+      "name": "thay quang ha"
+    },
+    "HD-41AA-3192-1BD8-27BC": {
+      "stats": {},
+      "last_ok": {},
+      "name": "chang giao"
+    },
+    "HD-CABE-A80D-FE1B-F846": {
+      "stats": {},
+      "last_ok": {},
+      "name": "ky my"
+    },
+    "HD-16F0-81EC-B08E-8154": {
+      "stats": {},
+      "last_ok": {},
+      "name": "dang khoa"
+    },
+    "HD-ECF8-659A-78EA-BE2D": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Thay qUANG hA"
+    },
+    "HD-CED4-96D9-0DE7-AB4A": {
+      "stats": {},
+      "last_ok": {},
+      "name": "LAM NHI"
+    },
+    "HD-F4FD-8A19-9A25-C216": {
+      "stats": {},
+      "last_ok": {},
+      "name": "TRUONG SON DUC CO"
+    },
+    "HD-40F2-AF8F-6ABF-5597": {
+      "stats": {},
+      "last_ok": {},
+      "name": "THANH"
+    },
+    "HD-96A0-59DF-34A8-40E4": {
+      "stats": {},
+      "last_ok": {},
+      "name": "QUYEN PHAM"
+    },
+    "HD-B656-D2FB-29E2-8C05": {
+      "stats": {},
+      "last_ok": {},
+      "name": "tran dinh duyan"
+    },
+    "HD-5C9A-E7FA-AE1A-A882": {
+      "stats": {},
+      "last_ok": {},
+      "name": "NGUYEN HAU MOBILE"
+    },
+    "HD-1C4D-ED26-0EB6-AF78": {
+      "stats": {},
+      "last_ok": {},
+      "name": "ANH THE"
+    },
+    "HD-B468-CE6A-EAFA-D193": {
+      "stats": {},
+      "last_ok": {},
+      "name": "HA THANH"
+    },
+    "HD-D178-2D96-6AA4-408A": {
+      "stats": {},
+      "last_ok": {},
+      "name": "kien"
+    },
+    "HD-44C4-8E82-D82A-02CD": {
+      "stats": {},
+      "last_ok": {},
+      "name": "tien duc"
+    },
+    "HD-7EBE-C649-AE65-B480": {
+      "stats": {},
+      "last_ok": {},
+      "name": "may duy thang"
+    },
+    "HD-D545-D4AA-0E83-388F": {
+      "stats": {},
+      "last_ok": {},
+      "name": "tran minh"
+    },
+    "HD-AA11-646E-211D-1622": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Giang Tran"
+    },
+    "HD-D93A-E115-0F03-CDBC": {
+      "stats": {},
+      "last_ok": {},
+      "name": "mai duy thang"
+    },
+    "HD-53E5-1EFA-C10D-7A4F": {
+      "stats": {},
+      "last_ok": {},
+      "name": "Phan mem me linh"
+    }
+  }
+}
