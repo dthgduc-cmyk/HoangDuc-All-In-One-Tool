@@ -1,8 +1,8 @@
 {
-  "version": "304",
-  "min_version": "304",
+  "version": "305",
+  "min_version": "305",
   "min_size": 40000000,
-  "exe_url": "https://github.com/dthgduc-cmyk/HoangDuc-All-In-One-Tool/releases/download/V304/HoangDuc_All_In_One_Tool_V304.exe",
-  "notes": "Nâng cấp chức năng tool",
-  "updated": "2026-09-26 09:03:36"
+  "exe_url": "https://github.com/dthgduc-cmyk/HoangDuc-All-In-One-Tool/releases/download/V305/HoangDuc_All_In_One_Tool_V305.exe",
+  "notes": "Kich HWID khong can gui ma, bo o khoa khi ON, het luot BUILD phai mua them, ban cu khong xoa ban moi.",
+  "updated": "2026-09-26 09:25:00"
 }
