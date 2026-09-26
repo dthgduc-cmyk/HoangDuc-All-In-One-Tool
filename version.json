@@ -1,8 +1,8 @@
 {
-  "version": "304",
-  "min_version": "304",
+  "version": "307",
+  "min_version": "307",
   "min_size": 40000000,
-  "exe_url": "https://github.com/dthgduc-cmyk/HoangDuc-All-In-One-Tool/releases/download/V304/HoangDuc_All_In_One_Tool_V304.exe",
-  "notes": "Nâng cấp chức năng tool",
-  "updated": "2026-09-27 03:09:25"
+  "exe_url": "https://github.com/dthgduc-cmyk/HoangDuc-All-In-One-Tool/releases/download/V307/HoangDuc_All_In_One_Tool_V307.exe",
+  "notes": "Cập nhật chức năng tool",
+  "updated": "2026-09-27 15:55:00"
 }
