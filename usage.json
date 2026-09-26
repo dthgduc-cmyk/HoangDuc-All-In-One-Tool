@@ -1,12 +1,151 @@
 {
   "ok": true,
-  "updated": "2026-09-26 09:03:35",
+  "updated": "2026-09-27 00:23:14",
   "hwids": {
-    "HD-73FE-AEF6-40D8-40AE": {
-      "stats": {},
+    "HD-C61A-B830-790B-4CD2": {
+      "stats": {
+        "BUILD": {
+          "try": 9,
+          "ok": 9,
+          "fail": 0
+        },
+        "BUILD_SUPER_FIX": {
+          "try": 7,
+          "ok": 7,
+          "fail": 0
+        },
+        "SCHEDULE_AUTO_MONITOR": {
+          "try": 2,
+          "ok": 2,
+          "fail": 0
+        }
+      },
+      "last_ok": {
+        "feature": "BUILD",
+        "time": "2026-09-26 17:58:23"
+      }
+    },
+    "HD-1F82-C4DF-2F1A-7D12": {
+      "stats": {
+        "BUILD": {
+          "try": 2,
+          "ok": 2,
+          "fail": 0
+        }
+      },
+      "last_ok": {}
+    },
+    "HD-9116-0E73-F727-0445": {
+      "stats": {
+        "BUILD": {
+          "try": 3,
+          "ok": 1,
+          "fail": 2
+        }
+      },
+      "last_ok": {}
+    },
+    "HD-DFFE-6BCE-EB68-97D2": {
+      "stats": {
+        "BUILD": {
+          "try": 2,
+          "ok": 1,
+          "fail": 1
+        }
+      },
+      "last_ok": {}
+    },
+    "HD-5B74-51CD-5D7A-33CB": {
+      "stats": {
+        "BUILD": {
+          "try": 1,
+          "ok": 1,
+          "fail": 0
+        }
+      },
+      "last_ok": {}
+    },
+    "HD-8454-6D60-1E6D-3216": {
+      "stats": {
+        "BUILD": {
+          "try": 2,
+          "ok": 2,
+          "fail": 0
+        }
+      },
       "last_ok": {}
     },
     "HD-18FF-8A86-6574-24EC": {
+      "stats": {
+        "BUILD": {
+          "try": 3,
+          "ok": 3,
+          "fail": 0
+        }
+      },
+      "last_ok": {}
+    },
+    "HD-ED36-B553-A127-CD0A": {
+      "stats": {
+        "BUILD": {
+          "try": 3,
+          "ok": 1,
+          "fail": 2
+        }
+      },
+      "last_ok": {}
+    },
+    "HD-4142-A442-7310-C295": {
+      "stats": {
+        "BUILD": {
+          "try": 8,
+          "ok": 0,
+          "fail": 8
+        }
+      },
+      "last_ok": {}
+    },
+    "HD-8BB7-53B5-0550-D0FF": {
+      "stats": {
+        "BUILD": {
+          "try": 8,
+          "ok": 0,
+          "fail": 8
+        }
+      },
+      "last_ok": {}
+    },
+    "HD-87BB-787C-9DA1-DA2E": {
+      "stats": {
+        "BUILD": {
+          "try": 4,
+          "ok": 0,
+          "fail": 4
+        }
+      },
+      "last_ok": {}
+    },
+    "HD-EF3C-4115-4BB7-28D3": {
+      "stats": {
+        "BUILD": {
+          "try": 1,
+          "ok": 1,
+          "fail": 0
+        }
+      },
+      "last_ok": {}
+    },
+    "HD-3396-BA62-B6D5-69A2": {
+      "stats": {
+        "BUILD": {
+          "try": 1,
+          "ok": 0,
+          "fail": 1
+        }
+      },
+      "last_ok": {}
+    },
+    "HD-73FE-AEF6-40D8-40AE": {
       "stats": {},
       "last_ok": {}
     },
@@ -15,10 +154,6 @@
       "last_ok": {}
     },
     "HD-AA09-8CF9-6D5C-0058": {
-      "stats": {},
-      "last_ok": {}
-    },
-    "HD-C61A-B830-790B-4CD2": {
       "stats": {},
       "last_ok": {}
     },
@@ -51,10 +186,6 @@
       "last_ok": {}
     },
     "HD-04B1-C55B-4418-0678": {
-      "stats": {},
-      "last_ok": {}
-    },
-    "HD-ED36-B553-A127-CD0A": {
       "stats": {},
       "last_ok": {}
     },
@@ -138,10 +269,6 @@
       "stats": {},
       "last_ok": {}
     },
-    "HD-3396-BA62-B6D5-69A2": {
-      "stats": {},
-      "last_ok": {}
-    },
     "HD-D4FC-3E52-9206-C49D": {
       "stats": {},
       "last_ok": {}
@@ -179,10 +306,6 @@
       "last_ok": {}
     },
     "HD-3CC8-279C-0B74-7E7F": {
-      "stats": {},
-      "last_ok": {}
-    },
-    "HD-4142-A442-7310-C295": {
       "stats": {},
       "last_ok": {}
     },
@@ -346,10 +469,6 @@
       "stats": {},
       "last_ok": {}
     },
-    "HD-DFFE-6BCE-EB68-97D2": {
-      "stats": {},
-      "last_ok": {}
-    },
     "HD-2377-283E-D154-040D": {
       "stats": {},
       "last_ok": {}
@@ -386,10 +505,6 @@
       "stats": {},
       "last_ok": {}
     },
-    "HD-9116-0E73-F727-0445": {
-      "stats": {},
-      "last_ok": {}
-    },
     "HD-3000-D6A7-0FDD-D225": {
       "stats": {},
       "last_ok": {}
@@ -407,10 +522,6 @@
       "last_ok": {}
     },
     "HD-3AF1-2F17-EDB4-E7BF": {
-      "stats": {},
-      "last_ok": {}
-    },
-    "HD-1F82-C4DF-2F1A-7D12": {
       "stats": {},
       "last_ok": {}
     },
@@ -443,10 +554,6 @@
       "last_ok": {}
     },
     "HD-6EE5-A2A0-7319-E290": {
-      "stats": {},
-      "last_ok": {}
-    },
-    "HD-5B74-51CD-5D7A-33CB": {
       "stats": {},
       "last_ok": {}
     },
@@ -562,10 +669,6 @@
       "stats": {},
       "last_ok": {}
     },
-    "HD-8BB7-53B5-0550-D0FF": {
-      "stats": {},
-      "last_ok": {}
-    },
     "HD-0B18-65A6-13D7-C0F6": {
       "stats": {},
       "last_ok": {}
@@ -578,10 +681,6 @@
       "stats": {},
       "last_ok": {}
     },
-    "HD-87BB-787C-9DA1-DA2E": {
-      "stats": {},
-      "last_ok": {}
-    },
     "HD-68F0-17AE-2163-B342": {
       "stats": {},
       "last_ok": {}
@@ -590,15 +689,11 @@
       "stats": {},
       "last_ok": {}
     },
-    "HD-8454-6D60-1E6D-3216": {
-      "stats": {},
-      "last_ok": {}
-    },
-    "HD-EF3C-4115-4BB7-28D3": {
-      "stats": {},
-      "last_ok": {}
-    },
     "HD-CBCF-261B-D339-0616": {
+      "stats": {},
+      "last_ok": {}
+    },
+    "HD-6CC4-0602-BBBB-345D": {
       "stats": {},
       "last_ok": {}
     }
