@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "updated": "2026-09-27 01:24:44",
+  "updated": "2026-09-27 03:09:24",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
         "BUILD": {
-          "try": 9,
+          "try": 16,
           "ok": 9,
-          "fail": 0
+          "fail": 7
         },
         "BUILD_SUPER_FIX": {
           "try": 7,
@@ -88,8 +88,8 @@
     "HD-ED36-B553-A127-CD0A": {
       "stats": {
         "BUILD": {
-          "try": 3,
-          "ok": 1,
+          "try": 6,
+          "ok": 4,
           "fail": 2
         }
       },
@@ -141,6 +141,36 @@
           "try": 1,
           "ok": 0,
           "fail": 1
+        }
+      },
+      "last_ok": {}
+    },
+    "HD-6CC4-0602-BBBB-345D": {
+      "stats": {
+        "BUILD": {
+          "try": 2,
+          "ok": 0,
+          "fail": 2
+        }
+      },
+      "last_ok": {}
+    },
+    "HD-2FAA-E4D2-10E8-1C2D": {
+      "stats": {
+        "BUILD": {
+          "try": 4,
+          "ok": 0,
+          "fail": 4
+        }
+      },
+      "last_ok": {}
+    },
+    "HD-E1BB-85A1-FB23-A5C3": {
+      "stats": {
+        "BUILD": {
+          "try": 2,
+          "ok": 0,
+          "fail": 2
         }
       },
       "last_ok": {}
@@ -513,10 +543,6 @@
       "stats": {},
       "last_ok": {}
     },
-    "HD-E1BB-85A1-FB23-A5C3": {
-      "stats": {},
-      "last_ok": {}
-    },
     "HD-AAEC-4C43-3FFF-0B39": {
       "stats": {},
       "last_ok": {}
@@ -693,15 +719,11 @@
       "stats": {},
       "last_ok": {}
     },
-    "HD-6CC4-0602-BBBB-345D": {
-      "stats": {},
-      "last_ok": {}
-    },
-    "HD-2FAA-E4D2-10E8-1C2D": {
-      "stats": {},
-      "last_ok": {}
-    },
     "HD-50B5-3110-A49B-87C2": {
+      "stats": {},
+      "last_ok": {}
+    },
+    "HD-CE0B-8C50-7768-0D8A": {
       "stats": {},
       "last_ok": {}
     }
