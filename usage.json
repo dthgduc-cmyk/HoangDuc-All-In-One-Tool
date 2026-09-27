@@ -1,12 +1,12 @@
 {
   "ok": true,
-  "updated": "2026-09-27 08:55:46",
+  "updated": "2026-09-27 09:20:29",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
         "BUILD": {
-          "try": 22,
-          "ok": 14,
+          "try": 23,
+          "ok": 15,
           "fail": 8
         },
         "BUILD_SUPER_FIX": {
@@ -15,8 +15,8 @@
           "fail": 0
         },
         "SCHEDULE_AUTO_MONITOR": {
-          "try": 206,
-          "ok": 206,
+          "try": 212,
+          "ok": 212,
           "fail": 0
         },
         "BUILD_CHUAN": {
@@ -25,8 +25,8 @@
           "fail": 0
         },
         "BUILD_QC": {
-          "try": 2,
-          "ok": 2,
+          "try": 3,
+          "ok": 3,
           "fail": 0
         },
         "AUTO_OPPO": {
@@ -35,44 +35,44 @@
           "fail": 0
         },
         "REBOOT_EDL": {
-          "try": 4,
-          "ok": 4,
+          "try": 7,
+          "ok": 7,
           "fail": 0
         },
         "TAB_ANDROID": {
+          "try": 26,
+          "ok": 26,
+          "fail": 0
+        },
+        "TAB_DEVELOPER": {
+          "try": 7,
+          "ok": 7,
+          "fail": 0
+        },
+        "TAB_OPPO": {
           "try": 22,
           "ok": 22,
           "fail": 0
         },
-        "TAB_DEVELOPER": {
+        "TAB_VIVO": {
+          "try": 11,
+          "ok": 11,
+          "fail": 0
+        },
+        "TAB_SAMSUNG": {
           "try": 6,
           "ok": 6,
           "fail": 0
         },
-        "TAB_OPPO": {
-          "try": 20,
-          "ok": 20,
-          "fail": 0
-        },
-        "TAB_VIVO": {
-          "try": 10,
-          "ok": 10,
-          "fail": 0
-        },
-        "TAB_SAMSUNG": {
-          "try": 5,
-          "ok": 5,
-          "fail": 0
-        },
         "TAB_BUILD_ROM_FIX": {
-          "try": 1,
-          "ok": 1,
+          "try": 2,
+          "ok": 2,
           "fail": 0
         }
       },
       "last_ok": {
-        "feature": "BUILD_CHUAN",
-        "time": "2026-09-27 08:38:22"
+        "feature": "REBOOT_EDL",
+        "time": "2026-09-27 09:12:14"
       }
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -281,6 +281,26 @@
           "try": 2,
           "ok": 0,
           "fail": 2
+        }
+      },
+      "last_ok": {}
+    },
+    "HD-6EE5-A2A0-7319-E290": {
+      "stats": {
+        "BUILD": {
+          "try": 2,
+          "ok": 2,
+          "fail": 0
+        }
+      },
+      "last_ok": {}
+    },
+    "HD-57B2-F31B-B7D8-B772": {
+      "stats": {
+        "BUILD": {
+          "try": 3,
+          "ok": 0,
+          "fail": 3
         }
       },
       "last_ok": {}
@@ -681,10 +701,6 @@
       "stats": {},
       "last_ok": {}
     },
-    "HD-6EE5-A2A0-7319-E290": {
-      "stats": {},
-      "last_ok": {}
-    },
     "HD-41AA-3192-1BD8-27BC": {
       "stats": {},
       "last_ok": {}
@@ -765,10 +781,6 @@
       "stats": {},
       "last_ok": {}
     },
-    "HD-57B2-F31B-B7D8-B772": {
-      "stats": {},
-      "last_ok": {}
-    },
     "HD-0CFA-DF29-5EA9-521D": {
       "stats": {},
       "last_ok": {}
@@ -818,6 +830,10 @@
       "last_ok": {}
     },
     "HD-51AC-495C-6596-6C9E": {
+      "stats": {},
+      "last_ok": {}
+    },
+    "HD-A7B5-6260-AD92-9487": {
       "stats": {},
       "last_ok": {}
     }
