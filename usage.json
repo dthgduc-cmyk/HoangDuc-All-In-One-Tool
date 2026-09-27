@@ -1,12 +1,12 @@
 {
   "ok": true,
-  "updated": "2026-09-28 01:36:34",
+  "updated": "2026-09-28 04:11:20",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
         "BUILD": {
-          "try": 26,
-          "ok": 17,
+          "try": 27,
+          "ok": 18,
           "fail": 9
         },
         "BUILD_SUPER_FIX": {
@@ -65,8 +65,8 @@
           "fail": 0
         },
         "TAB_BUILD_ROM_FIX": {
-          "try": 3,
-          "ok": 3,
+          "try": 4,
+          "ok": 4,
           "fail": 0
         },
         "BUILD_MODEM": {
@@ -103,11 +103,16 @@
           "try": 1,
           "ok": 1,
           "fail": 0
+        },
+        "BUILD_MTK": {
+          "try": 1,
+          "ok": 1,
+          "fail": 0
         }
       },
       "last_ok": {
-        "feature": "FIX_ANDROID_10",
-        "time": "2026-09-28 01:16:20"
+        "feature": "BUILD",
+        "time": "2026-09-28 01:46:57"
       }
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -223,8 +228,8 @@
     "HD-3396-BA62-B6D5-69A2": {
       "stats": {
         "BUILD": {
-          "try": 3,
-          "ok": 0,
+          "try": 4,
+          "ok": 1,
           "fail": 3
         }
       },
