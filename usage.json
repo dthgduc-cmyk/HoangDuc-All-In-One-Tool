@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "updated": "2026-09-27 21:45:45",
+  "updated": "2026-09-27 23:18:12",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
         "BUILD": {
-          "try": 23,
+          "try": 24,
           "ok": 15,
-          "fail": 8
+          "fail": 9
         },
         "BUILD_SUPER_FIX": {
           "try": 7,
@@ -15,8 +15,8 @@
           "fail": 0
         },
         "SCHEDULE_AUTO_MONITOR": {
-          "try": 212,
-          "ok": 212,
+          "try": 213,
+          "ok": 213,
           "fail": 0
         },
         "BUILD_CHUAN": {
@@ -40,8 +40,8 @@
           "fail": 0
         },
         "TAB_ANDROID": {
-          "try": 27,
-          "ok": 27,
+          "try": 28,
+          "ok": 28,
           "fail": 0
         },
         "TAB_DEVELOPER": {
@@ -68,11 +68,16 @@
           "try": 2,
           "ok": 2,
           "fail": 0
+        },
+        "BUILD_MODEM": {
+          "try": 1,
+          "ok": 0,
+          "fail": 1
         }
       },
       "last_ok": {
-        "feature": "REBOOT_EDL",
-        "time": "2026-09-27 09:36:51"
+        "feature": "TAB_ANDROID",
+        "time": "2026-09-27 23:15:08"
       }
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -98,9 +103,9 @@
     "HD-DFFE-6BCE-EB68-97D2": {
       "stats": {
         "BUILD": {
-          "try": 7,
-          "ok": 2,
-          "fail": 5
+          "try": 10,
+          "ok": 3,
+          "fail": 7
         }
       },
       "last_ok": {}
@@ -148,9 +153,9 @@
     "HD-4142-A442-7310-C295": {
       "stats": {
         "BUILD": {
-          "try": 8,
+          "try": 10,
           "ok": 0,
-          "fail": 8
+          "fail": 10
         }
       },
       "last_ok": {}
@@ -198,9 +203,9 @@
     "HD-6CC4-0602-BBBB-345D": {
       "stats": {
         "BUILD": {
-          "try": 3,
+          "try": 5,
           "ok": 0,
-          "fail": 3
+          "fail": 5
         }
       },
       "last_ok": {}
@@ -238,8 +243,8 @@
     "HD-8FAA-FA95-C9B7-91D3": {
       "stats": {
         "BUILD": {
-          "try": 2,
-          "ok": 1,
+          "try": 3,
+          "ok": 2,
           "fail": 1
         }
       },
@@ -368,9 +373,29 @@
     "HD-51AC-495C-6596-6C9E": {
       "stats": {
         "BUILD": {
-          "try": 6,
-          "ok": 0,
+          "try": 7,
+          "ok": 1,
           "fail": 6
+        }
+      },
+      "last_ok": {}
+    },
+    "HD-318E-29F2-8A8C-7324": {
+      "stats": {
+        "BUILD": {
+          "try": 3,
+          "ok": 2,
+          "fail": 1
+        }
+      },
+      "last_ok": {}
+    },
+    "HD-FD79-95B1-1D4A-6F5E": {
+      "stats": {
+        "BUILD": {
+          "try": 1,
+          "ok": 1,
+          "fail": 0
         }
       },
       "last_ok": {}
@@ -588,10 +613,6 @@
       "last_ok": {}
     },
     "HD-27C7-E0DD-7F39-9B12": {
-      "stats": {},
-      "last_ok": {}
-    },
-    "HD-318E-29F2-8A8C-7324": {
       "stats": {},
       "last_ok": {}
     },
@@ -836,10 +857,6 @@
       "last_ok": {}
     },
     "HD-2094-0FAE-9B9D-51A0": {
-      "stats": {},
-      "last_ok": {}
-    },
-    "HD-FD79-95B1-1D4A-6F5E": {
       "stats": {},
       "last_ok": {}
     },
