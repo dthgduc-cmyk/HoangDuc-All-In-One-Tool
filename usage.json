@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-27 23:42:36",
+  "updated": "2026-09-28 00:27:45",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -45,8 +45,8 @@
           "fail": 0
         },
         "TAB_DEVELOPER": {
-          "try": 8,
-          "ok": 8,
+          "try": 9,
+          "ok": 9,
           "fail": 0
         },
         "TAB_OPPO": {
@@ -76,8 +76,8 @@
         }
       },
       "last_ok": {
-        "feature": "BUILD",
-        "time": "2026-09-27 23:23:14"
+        "feature": "TAB_DEVELOPER",
+        "time": "2026-09-28 00:17:34"
       }
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -153,8 +153,8 @@
     "HD-4142-A442-7310-C295": {
       "stats": {
         "BUILD": {
-          "try": 10,
-          "ok": 0,
+          "try": 16,
+          "ok": 6,
           "fail": 10
         }
       },
@@ -400,6 +400,16 @@
       },
       "last_ok": {}
     },
+    "HD-83C4-186A-F772-6855": {
+      "stats": {
+        "BUILD": {
+          "try": 4,
+          "ok": 0,
+          "fail": 4
+        }
+      },
+      "last_ok": {}
+    },
     "HD-73FE-AEF6-40D8-40AE": {
       "stats": {},
       "last_ok": {}
@@ -529,10 +539,6 @@
       "last_ok": {}
     },
     "HD-FEE4-1995-8115-BB79": {
-      "stats": {},
-      "last_ok": {}
-    },
-    "HD-83C4-186A-F772-6855": {
       "stats": {},
       "last_ok": {}
     },
