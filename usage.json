@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-28 05:16:49",
+  "updated": "2026-09-28 05:41:40",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -118,9 +118,9 @@
     "HD-1F82-C4DF-2F1A-7D12": {
       "stats": {
         "BUILD": {
-          "try": 23,
-          "ok": 10,
-          "fail": 13
+          "try": 27,
+          "ok": 12,
+          "fail": 15
         }
       },
       "last_ok": {}
@@ -128,8 +128,8 @@
     "HD-9116-0E73-F727-0445": {
       "stats": {
         "BUILD": {
-          "try": 9,
-          "ok": 7,
+          "try": 10,
+          "ok": 8,
           "fail": 2
         }
       },
@@ -178,8 +178,8 @@
     "HD-ED36-B553-A127-CD0A": {
       "stats": {
         "BUILD": {
-          "try": 16,
-          "ok": 10,
+          "try": 17,
+          "ok": 11,
           "fail": 6
         }
       },
@@ -218,8 +218,8 @@
     "HD-EF3C-4115-4BB7-28D3": {
       "stats": {
         "BUILD": {
-          "try": 1,
-          "ok": 1,
+          "try": 2,
+          "ok": 2,
           "fail": 0
         }
       },
@@ -496,6 +496,26 @@
       "last_ok": {}
     },
     "HD-5C9A-E7FA-AE1A-A882": {
+      "stats": {
+        "BUILD": {
+          "try": 8,
+          "ok": 2,
+          "fail": 6
+        }
+      },
+      "last_ok": {}
+    },
+    "HD-E4BC-B619-6DAE-23F3": {
+      "stats": {
+        "BUILD": {
+          "try": 1,
+          "ok": 1,
+          "fail": 0
+        }
+      },
+      "last_ok": {}
+    },
+    "HD-44C4-8E82-D82A-02CD": {
       "stats": {
         "BUILD": {
           "try": 1,
@@ -825,10 +845,6 @@
       "stats": {},
       "last_ok": {}
     },
-    "HD-E4BC-B619-6DAE-23F3": {
-      "stats": {},
-      "last_ok": {}
-    },
     "HD-AAEC-4C43-3FFF-0B39": {
       "stats": {},
       "last_ok": {}
@@ -898,10 +914,6 @@
       "last_ok": {}
     },
     "HD-D178-2D96-6AA4-408A": {
-      "stats": {},
-      "last_ok": {}
-    },
-    "HD-44C4-8E82-D82A-02CD": {
       "stats": {},
       "last_ok": {}
     },
@@ -990,6 +1002,10 @@
       "last_ok": {}
     },
     "HD-7097-6BF1-40B4-62DD": {
+      "stats": {},
+      "last_ok": {}
+    },
+    "HD-45D3-A346-F8F7-9639": {
       "stats": {},
       "last_ok": {}
     }
