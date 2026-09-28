@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-28 10:21:24",
+  "updated": "2026-09-28 14:48:15",
   "hwids": {
     "HD-73FE-AEF6-40D8-40AE": {
       "enabled": true,
@@ -44,7 +44,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 20,
+      "build_used": 23,
       "ticket": "64deaf1b6647e833867b6e244f0d40c2d9339a5587461650194336e0c173b157"
     },
     "HD-9BC5-A499-9650-017D": {
@@ -260,7 +260,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 6,
+      "build_used": 10,
       "ticket": "c14af68f36be0165e213a3d31fa40cbcb68296e682c20ed3ba78f0d5e33d5775"
     },
     "HD-3E4D-9F68-C262-FE1E": {
@@ -341,7 +341,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 0,
+      "build_used": 8,
       "ticket": "2164cd508d95976d8f1eab4aee7fe5bbb3cb10a8c5a09af5bc65b91577c87df7"
     },
     "HD-3CC8-279C-0B74-7E7F": {
@@ -467,7 +467,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 4,
+      "build_used": 5,
       "ticket": "ef7548c95df89eb9930e76820b91e74a496f9a06c6b02ae7b53ca2996366d135"
     },
     "HD-2F55-0A55-44F5-8B69": {
@@ -692,7 +692,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 6,
+      "build_used": 7,
       "ticket": "4567f1f7088e0fee4ef109ce2d04bcf8060c0d7346ec08aac6d698f6a1d55eca"
     },
     "HD-2377-283E-D154-040D": {
@@ -916,7 +916,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 0,
+      "build_used": 2,
       "ticket": "64799dc9c102a27f5df2e8ec741252812f2ebf21373d4f8bc06c864f9c57d063"
     },
     "HD-16F0-81EC-B08E-8154": {
@@ -1393,7 +1393,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 0,
+      "build_used": 2,
       "ticket": "a8afa33a1fe3f2470508be29ece6784464a3e6d1e7268ded3978bd6821036459"
     },
     "HD-2CE9-E843-2A64-D259": {
@@ -1404,6 +1404,15 @@
       "build_off": false,
       "build_used": 0,
       "ticket": "d31111748389b2f9daef095808cdeca8af51803ce9d72edf64bd4781ad8bd8c7"
+    },
+    "HD-TEST-TEST-TEST-TEST": {
+      "enabled": true,
+      "expire": "2099-12-31",
+      "wipe": false,
+      "build_limit": 1000,
+      "build_off": false,
+      "build_used": 0,
+      "ticket": "84ccb41b89d5f2743189ec121071abe11d4afa05d0de875b55161385b3141adb"
     }
   }
 }
