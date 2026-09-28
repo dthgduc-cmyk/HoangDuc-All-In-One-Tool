@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-28 22:01:04",
+  "updated": "2026-09-29 00:20:05",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -178,8 +178,8 @@
     "HD-DFFE-6BCE-EB68-97D2": {
       "stats": {
         "BUILD": {
-          "try": 15,
-          "ok": 7,
+          "try": 16,
+          "ok": 8,
           "fail": 8
         }
       },
@@ -262,9 +262,9 @@
     "HD-87BB-787C-9DA1-DA2E": {
       "stats": {
         "BUILD": {
-          "try": 16,
+          "try": 20,
           "ok": 1,
-          "fail": 15
+          "fail": 19
         }
       },
       "last_ok": {},
@@ -1454,6 +1454,12 @@
       "last_use": {}
     },
     "HD-EFF1-F0E1-B569-B4AD": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-D298-EE59-4F6D-F0D7": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
