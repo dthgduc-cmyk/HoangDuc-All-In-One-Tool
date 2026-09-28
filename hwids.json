@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-29 00:20:05",
+  "updated": "2026-09-29 01:31:49",
   "hwids": {
     "HD-73FE-AEF6-40D8-40AE": {
       "enabled": true,
@@ -89,7 +89,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 0,
+      "build_used": 1,
       "ticket": "c98c0d9b89a4ac261c0a432abb6e97e99f89c3938d8276f65264417277dc0ed2"
     },
     "HD-5022-CDB5-7409-738E": {
@@ -269,7 +269,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 2,
+      "build_used": 4,
       "ticket": "3dd50acdec929f27c87c11f71525e3a1498a69c2241cbd4296327eaf8c054240"
     },
     "HD-645E-0B73-6E04-A13E": {
@@ -359,7 +359,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 9,
+      "build_used": 11,
       "ticket": "c807a19049737f0d0d850f35bc33338920334785cc661452b2bd6c6906e26868"
     },
     "HD-4E8E-AFE9-B013-52B4": {
@@ -494,7 +494,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 2,
+      "build_used": 3,
       "ticket": "67c051ab98750b6dc1a72a0666fdff3d84ac657af66362ea25c1e22485eb8db2"
     },
     "HD-6971-CA89-C39D-E541": {
@@ -790,7 +790,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 2,
+      "build_used": 3,
       "ticket": "28a9f8748e06277d2c3dd7151269d2204ba5f750e59f1ee6e945ed28c4d7ed0b"
     },
     "HD-E1BB-85A1-FB23-A5C3": {
@@ -1204,7 +1204,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 2,
+      "build_used": 3,
       "ticket": "798485769c702b49b8ab257d9c870274b8e059be6c921dce02e3db8faba4f57d"
     },
     "HD-EF3C-4115-4BB7-28D3": {
@@ -1422,6 +1422,15 @@
       "build_off": false,
       "build_used": 0,
       "ticket": "7751fea867123dba0066b4452a761afc4e3de875bafa8491e140f2e228e3bc1d"
+    },
+    "HD-0C8C-1566-BE5F-0A29": {
+      "enabled": true,
+      "expire": "2027-09-29",
+      "wipe": false,
+      "build_limit": 1000,
+      "build_off": false,
+      "build_used": 0,
+      "ticket": "be124ce883ab3a7a564b83c6e20ee8ac9b0cbd94a49eb021a2d2a29f55bdf4cf"
     }
   }
 }
