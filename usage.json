@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "updated": "2026-09-28 15:36:44",
+  "updated": "2026-09-28 22:01:04",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
         "BUILD": {
-          "try": 39,
-          "ok": 23,
-          "fail": 16
+          "try": 42,
+          "ok": 24,
+          "fail": 18
         },
         "BUILD_SUPER_FIX": {
           "try": 7,
@@ -65,14 +65,14 @@
           "fail": 0
         },
         "TAB_BUILD_ROM_FIX": {
-          "try": 67,
-          "ok": 67,
+          "try": 70,
+          "ok": 70,
           "fail": 0
         },
         "BUILD_MODEM": {
-          "try": 14,
+          "try": 15,
           "ok": 6,
-          "fail": 8
+          "fail": 9
         },
         "FIX_ANDROID_10": {
           "try": 26,
@@ -90,8 +90,8 @@
           "fail": 0
         },
         "TAB_FLASH_MTK": {
-          "try": 29,
-          "ok": 29,
+          "try": 32,
+          "ok": 32,
           "fail": 0
         },
         "TAB_XIAOMI": {
@@ -125,28 +125,30 @@
           "fail": 0
         },
         "BUILD_MODEM_FIX": {
-          "try": 1,
-          "ok": 1,
-          "fail": 0
+          "try": 3,
+          "ok": 2,
+          "fail": 1
         }
       },
       "last_ok": {
-        "feature": "AUTO_OPPO",
-        "time": "2026-09-28 15:28:00",
+        "feature": "BUILD",
+        "time": "2026-09-28 16:10:43",
         "ok": true,
-        "button": "AUTO BẬT VOLTE",
-        "phone": "OZMFLZK785TSAMRW"
+        "button": "BUILD FIX MODEM — không có Viettel",
+        "phone": "modem"
       },
       "last_fail": {
-        "feature": "BUILD",
-        "time": "2026-09-28 13:45:49"
+        "feature": "BUILD_MODEM_FIX",
+        "time": "2026-09-28 16:09:31",
+        "ok": false,
+        "button": "BUILD FIX MODEM — không có Viettel"
       },
       "last_use": {
-        "feature": "AUTO_OPPO",
-        "time": "2026-09-28 15:28:00",
+        "feature": "BUILD",
+        "time": "2026-09-28 16:10:43",
         "ok": true,
-        "button": "AUTO BẬT VOLTE",
-        "phone": "OZMFLZK785TSAMRW"
+        "button": "BUILD FIX MODEM — không có Viettel",
+        "phone": "modem"
       }
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -368,9 +370,9 @@
     "HD-4B4C-701A-E308-A836": {
       "stats": {
         "BUILD": {
-          "try": 8,
+          "try": 10,
           "ok": 3,
-          "fail": 5
+          "fail": 7
         }
       },
       "last_ok": {},
@@ -1446,6 +1448,12 @@
       "last_use": {}
     },
     "HD-2CE9-E843-2A64-D259": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-EFF1-F0E1-B569-B4AD": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
