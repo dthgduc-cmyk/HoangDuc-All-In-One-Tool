@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-29 01:34:27",
+  "updated": "2026-09-29 01:59:15",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -15,8 +15,8 @@
           "fail": 0
         },
         "SCHEDULE_AUTO_MONITOR": {
-          "try": 407,
-          "ok": 407,
+          "try": 411,
+          "ok": 411,
           "fail": 0
         },
         "BUILD_CHUAN": {
@@ -40,8 +40,8 @@
           "fail": 0
         },
         "TAB_ANDROID": {
-          "try": 136,
-          "ok": 136,
+          "try": 137,
+          "ok": 137,
           "fail": 0
         },
         "TAB_DEVELOPER": {
@@ -50,13 +50,13 @@
           "fail": 0
         },
         "TAB_OPPO": {
-          "try": 74,
-          "ok": 74,
+          "try": 75,
+          "ok": 75,
           "fail": 0
         },
         "TAB_VIVO": {
-          "try": 50,
-          "ok": 50,
+          "try": 51,
+          "ok": 51,
           "fail": 0
         },
         "TAB_SAMSUNG": {
@@ -110,8 +110,8 @@
           "fail": 0
         },
         "APK_GO": {
-          "try": 4,
-          "ok": 3,
+          "try": 5,
+          "ok": 4,
           "fail": 1
         },
         "TAB_ASUS": {
@@ -131,11 +131,10 @@
         }
       },
       "last_ok": {
-        "feature": "BUILD",
-        "time": "2026-09-28 16:10:43",
+        "feature": "SCHEDULE_AUTO_MONITOR",
+        "time": "2026-09-29 01:46:37",
         "ok": true,
-        "button": "BUILD FIX MODEM — không có Viettel",
-        "phone": "modem"
+        "button": "SCHEDULE AUTO MONITOR"
       },
       "last_fail": {
         "feature": "BUILD_MODEM_FIX",
@@ -144,11 +143,10 @@
         "button": "BUILD FIX MODEM — không có Viettel"
       },
       "last_use": {
-        "feature": "BUILD",
-        "time": "2026-09-28 16:10:43",
+        "feature": "SCHEDULE_AUTO_MONITOR",
+        "time": "2026-09-29 01:46:37",
         "ok": true,
-        "button": "BUILD FIX MODEM — không có Viettel",
-        "phone": "modem"
+        "button": "SCHEDULE AUTO MONITOR"
       }
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -733,6 +731,18 @@
           "try": 4,
           "ok": 0,
           "fail": 4
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-D298-EE59-4F6D-F0D7": {
+      "stats": {
+        "BUILD": {
+          "try": 1,
+          "ok": 1,
+          "fail": 0
         }
       },
       "last_ok": {},
@@ -1471,13 +1481,13 @@
       "last_fail": {},
       "last_use": {}
     },
-    "HD-D298-EE59-4F6D-F0D7": {
+    "HD-0C8C-1566-BE5F-0A29": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
       "last_use": {}
     },
-    "HD-0C8C-1566-BE5F-0A29": {
+    "HD-DB25-AAC8-84E3-2E2E": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
