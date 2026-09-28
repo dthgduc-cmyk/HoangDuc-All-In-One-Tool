@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "updated": "2026-09-28 09:39:35",
+  "updated": "2026-09-28 10:21:24",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
         "BUILD": {
-          "try": 27,
-          "ok": 18,
-          "fail": 9
+          "try": 31,
+          "ok": 20,
+          "fail": 11
         },
         "BUILD_SUPER_FIX": {
           "try": 7,
@@ -15,8 +15,8 @@
           "fail": 0
         },
         "SCHEDULE_AUTO_MONITOR": {
-          "try": 224,
-          "ok": 224,
+          "try": 225,
+          "ok": 225,
           "fail": 0
         },
         "BUILD_CHUAN": {
@@ -40,8 +40,8 @@
           "fail": 0
         },
         "TAB_ANDROID": {
-          "try": 35,
-          "ok": 35,
+          "try": 36,
+          "ok": 36,
           "fail": 0
         },
         "TAB_DEVELOPER": {
@@ -65,14 +65,14 @@
           "fail": 0
         },
         "TAB_BUILD_ROM_FIX": {
-          "try": 5,
-          "ok": 5,
+          "try": 9,
+          "ok": 9,
           "fail": 0
         },
         "BUILD_MODEM": {
-          "try": 3,
-          "ok": 2,
-          "fail": 1
+          "try": 7,
+          "ok": 4,
+          "fail": 3
         },
         "FIX_ANDROID_10": {
           "try": 26,
@@ -111,8 +111,8 @@
         }
       },
       "last_ok": {
-        "feature": "TAB_BUILD_ROM_FIX",
-        "time": "2026-09-28 09:35:52"
+        "feature": "SCHEDULE_AUTO_MONITOR",
+        "time": "2026-09-28 10:15:34"
       }
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -138,8 +138,8 @@
     "HD-DFFE-6BCE-EB68-97D2": {
       "stats": {
         "BUILD": {
-          "try": 12,
-          "ok": 5,
+          "try": 13,
+          "ok": 6,
           "fail": 7
         }
       },
@@ -228,8 +228,8 @@
     "HD-3396-BA62-B6D5-69A2": {
       "stats": {
         "BUILD": {
-          "try": 4,
-          "ok": 1,
+          "try": 5,
+          "ok": 2,
           "fail": 3
         }
       },
@@ -248,8 +248,8 @@
     "HD-2FAA-E4D2-10E8-1C2D": {
       "stats": {
         "BUILD": {
-          "try": 13,
-          "ok": 6,
+          "try": 15,
+          "ok": 8,
           "fail": 7
         }
       },
@@ -258,8 +258,8 @@
     "HD-E1BB-85A1-FB23-A5C3": {
       "stats": {
         "BUILD": {
-          "try": 4,
-          "ok": 2,
+          "try": 5,
+          "ok": 3,
           "fail": 2
         }
       },
@@ -388,8 +388,8 @@
     "HD-1C4D-ED26-0EB6-AF78": {
       "stats": {
         "BUILD": {
-          "try": 6,
-          "ok": 2,
+          "try": 8,
+          "ok": 4,
           "fail": 4
         }
       },
@@ -438,8 +438,8 @@
     "HD-83C4-186A-F772-6855": {
       "stats": {
         "BUILD": {
-          "try": 7,
-          "ok": 1,
+          "try": 8,
+          "ok": 2,
           "fail": 6
         }
       },
@@ -538,9 +538,9 @@
     "HD-ECF8-659A-78EA-BE2D": {
       "stats": {
         "BUILD": {
-          "try": 1,
-          "ok": 1,
-          "fail": 0
+          "try": 5,
+          "ok": 2,
+          "fail": 3
         }
       },
       "last_ok": {}
@@ -1046,6 +1046,10 @@
       "last_ok": {}
     },
     "HD-52BE-17AD-7AF6-BC58": {
+      "stats": {},
+      "last_ok": {}
+    },
+    "HD-2CE9-E843-2A64-D259": {
       "stats": {},
       "last_ok": {}
     }
