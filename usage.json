@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-28 07:54:47",
+  "updated": "2026-09-28 09:39:35",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -65,8 +65,8 @@
           "fail": 0
         },
         "TAB_BUILD_ROM_FIX": {
-          "try": 4,
-          "ok": 4,
+          "try": 5,
+          "ok": 5,
           "fail": 0
         },
         "BUILD_MODEM": {
@@ -111,8 +111,8 @@
         }
       },
       "last_ok": {
-        "feature": "BUILD",
-        "time": "2026-09-28 01:46:57"
+        "feature": "TAB_BUILD_ROM_FIX",
+        "time": "2026-09-28 09:35:52"
       }
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -1042,6 +1042,10 @@
       "last_ok": {}
     },
     "HD-EAC9-8AC1-7697-8E60": {
+      "stats": {},
+      "last_ok": {}
+    },
+    "HD-52BE-17AD-7AF6-BC58": {
       "stats": {},
       "last_ok": {}
     }
