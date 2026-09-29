@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-30 00:39:39",
+  "updated": "2026-09-30 00:41:16",
   "hwids": {
     "HD-73FE-AEF6-40D8-40AE": {
       "enabled": true,
@@ -1150,7 +1150,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 0,
+      "build_used": 2,
       "ticket": "eb7ab10d7e8c92df1c1034da86a76a7bf16cec67accb7bfc35907d56d9453d97"
     },
     "HD-0B18-65A6-13D7-C0F6": {
