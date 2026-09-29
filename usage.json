@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-30 05:30:44",
+  "updated": "2026-09-30 05:43:29",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -15,8 +15,8 @@
           "fail": 0
         },
         "SCHEDULE_AUTO_MONITOR": {
-          "try": 619,
-          "ok": 619,
+          "try": 620,
+          "ok": 620,
           "fail": 0
         },
         "BUILD_CHUAN": {
@@ -50,8 +50,8 @@
           "fail": 0
         },
         "TAB_OPPO": {
-          "try": 148,
-          "ok": 148,
+          "try": 149,
+          "ok": 149,
           "fail": 0
         },
         "TAB_VIVO": {
@@ -140,8 +140,8 @@
           "fail": 0
         },
         "AUTO_OPPO_F7F9": {
-          "try": 11,
-          "ok": 11,
+          "try": 12,
+          "ok": 12,
           "fail": 0
         },
         "TAB_IPHONE": {
@@ -166,10 +166,11 @@
         }
       },
       "last_ok": {
-        "feature": "AUTO_OPPO",
-        "time": "2026-09-30 05:29:39",
+        "feature": "AUTO_OPPO_F7F9",
+        "time": "2026-09-30 05:35:43",
         "ok": true,
-        "button": "AUTO BẬT VOLTE"
+        "button": "VoLTE F7 F9 F11",
+        "phone": "VS4HFUIZ9LBAHYWC"
       },
       "last_fail": {
         "feature": "BUILD_MODEM",
@@ -178,10 +179,11 @@
         "button": "BUILD MODEM"
       },
       "last_use": {
-        "feature": "AUTO_OPPO",
-        "time": "2026-09-30 05:29:39",
+        "feature": "AUTO_OPPO_F7F9",
+        "time": "2026-09-30 05:35:43",
         "ok": true,
-        "button": "AUTO BẬT VOLTE"
+        "button": "VoLTE F7 F9 F11",
+        "phone": "VS4HFUIZ9LBAHYWC"
       }
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -199,8 +201,8 @@
     "HD-9116-0E73-F727-0445": {
       "stats": {
         "BUILD": {
-          "try": 18,
-          "ok": 13,
+          "try": 19,
+          "ok": 14,
           "fail": 5
         }
       },
@@ -463,8 +465,8 @@
     "HD-D4FC-3E52-9206-C49D": {
       "stats": {
         "BUILD": {
-          "try": 1,
-          "ok": 1,
+          "try": 2,
+          "ok": 2,
           "fail": 0
         }
       },
@@ -811,8 +813,8 @@
     "HD-EFF1-F0E1-B569-B4AD": {
       "stats": {
         "BUILD": {
-          "try": 6,
-          "ok": 2,
+          "try": 7,
+          "ok": 3,
           "fail": 4
         }
       },
@@ -1739,6 +1741,12 @@
       "last_use": {}
     },
     "HD-3291-8FBD-B2E8-2F86": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-A890-C47A-D41C-150A": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
