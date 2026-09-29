@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-29 22:03:29",
+  "updated": "2026-09-29 22:42:07",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -15,8 +15,8 @@
           "fail": 0
         },
         "SCHEDULE_AUTO_MONITOR": {
-          "try": 509,
-          "ok": 509,
+          "try": 549,
+          "ok": 549,
           "fail": 0
         },
         "BUILD_CHUAN": {
@@ -40,33 +40,33 @@
           "fail": 0
         },
         "TAB_ANDROID": {
-          "try": 164,
-          "ok": 164,
+          "try": 179,
+          "ok": 179,
           "fail": 0
         },
         "TAB_DEVELOPER": {
-          "try": 82,
-          "ok": 82,
+          "try": 89,
+          "ok": 89,
           "fail": 0
         },
         "TAB_OPPO": {
-          "try": 122,
-          "ok": 122,
+          "try": 130,
+          "ok": 130,
           "fail": 0
         },
         "TAB_VIVO": {
-          "try": 63,
-          "ok": 63,
+          "try": 72,
+          "ok": 72,
           "fail": 0
         },
         "TAB_SAMSUNG": {
-          "try": 46,
-          "ok": 46,
+          "try": 53,
+          "ok": 53,
           "fail": 0
         },
         "TAB_BUILD_ROM_FIX": {
-          "try": 96,
-          "ok": 96,
+          "try": 104,
+          "ok": 104,
           "fail": 0
         },
         "BUILD_MODEM": {
@@ -90,13 +90,13 @@
           "fail": 0
         },
         "TAB_FLASH_MTK": {
-          "try": 51,
-          "ok": 51,
+          "try": 62,
+          "ok": 62,
           "fail": 0
         },
         "TAB_XIAOMI": {
-          "try": 34,
-          "ok": 34,
+          "try": 41,
+          "ok": 41,
           "fail": 0
         },
         "AUTO_OPPO_FIX2": {
@@ -120,8 +120,8 @@
           "fail": 0
         },
         "AUTO_VIVO1": {
-          "try": 3,
-          "ok": 3,
+          "try": 4,
+          "ok": 4,
           "fail": 0
         },
         "BUILD_MODEM_FIX": {
@@ -135,21 +135,41 @@
           "fail": 0
         },
         "FLASH_MTK_INFO": {
-          "try": 20,
-          "ok": 20,
+          "try": 22,
+          "ok": 22,
           "fail": 0
         },
         "AUTO_OPPO_F7F9": {
           "try": 3,
           "ok": 3,
           "fail": 0
+        },
+        "TAB_IPHONE": {
+          "try": 3,
+          "ok": 3,
+          "fail": 0
+        },
+        "TAB_HO_TRO": {
+          "try": 4,
+          "ok": 4,
+          "fail": 0
+        },
+        "TAB_HUONG_DAN": {
+          "try": 3,
+          "ok": 3,
+          "fail": 0
+        },
+        "TAB_CAI_DAT": {
+          "try": 4,
+          "ok": 4,
+          "fail": 0
         }
       },
       "last_ok": {
-        "feature": "SCHEDULE_AUTO_MONITOR",
-        "time": "2026-09-29 13:25:00",
+        "feature": "AUTO_VIVO1",
+        "time": "2026-09-29 22:35:31",
         "ok": true,
-        "button": "SCHEDULE AUTO MONITOR"
+        "button": "AUTO VIVO 1"
       },
       "last_fail": {
         "feature": "BUILD_MODEM",
@@ -158,10 +178,10 @@
         "button": "BUILD MODEM"
       },
       "last_use": {
-        "feature": "SCHEDULE_AUTO_MONITOR",
-        "time": "2026-09-29 13:25:00",
+        "feature": "AUTO_VIVO1",
+        "time": "2026-09-29 22:35:31",
         "ok": true,
-        "button": "SCHEDULE AUTO MONITOR"
+        "button": "AUTO VIVO 1"
       }
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -491,8 +511,8 @@
     "HD-1C4D-ED26-0EB6-AF78": {
       "stats": {
         "BUILD": {
-          "try": 8,
-          "ok": 4,
+          "try": 11,
+          "ok": 7,
           "fail": 4
         }
       },
@@ -635,8 +655,8 @@
     "HD-E4BC-B619-6DAE-23F3": {
       "stats": {
         "BUILD": {
-          "try": 5,
-          "ok": 3,
+          "try": 6,
+          "ok": 4,
           "fail": 2
         }
       },
@@ -791,9 +811,9 @@
     "HD-EFF1-F0E1-B569-B4AD": {
       "stats": {
         "BUILD": {
-          "try": 2,
+          "try": 4,
           "ok": 0,
-          "fail": 2
+          "fail": 4
         }
       },
       "last_ok": {},
@@ -1599,6 +1619,12 @@
       "last_use": {}
     },
     "HD-9AB8-2109-4673-E831": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-1642-9E89-0E09-4244": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
