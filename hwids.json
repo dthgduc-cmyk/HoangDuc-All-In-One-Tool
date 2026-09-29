@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-29 07:44:21",
+  "updated": "2026-09-29 07:52:08",
   "hwids": {
     "HD-73FE-AEF6-40D8-40AE": {
       "enabled": true,
@@ -251,7 +251,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 11,
+      "build_used": 13,
       "ticket": "c14af68f36be0165e213a3d31fa40cbcb68296e682c20ed3ba78f0d5e33d5775"
     },
     "HD-3E4D-9F68-C262-FE1E": {
@@ -350,7 +350,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 14,
+      "build_used": 15,
       "ticket": "c807a19049737f0d0d850f35bc33338920334785cc661452b2bd6c6906e26868"
     },
     "HD-4E8E-AFE9-B013-52B4": {
@@ -359,7 +359,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 0,
+      "build_used": 2,
       "ticket": "99521bf6c53eaa2d79236baf9ebd42238e7dd993f59bbb9918b0ff70afa58601"
     },
     "HD-04F1-B77B-D668-C10B": {
@@ -1177,7 +1177,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 1,
+      "build_used": 2,
       "ticket": "dcc99f95c627a155d81e6ed7f868b20230818baa770b19aa41085d75dba6b4f5"
     },
     "HD-68F0-17AE-2163-B342": {
@@ -1258,7 +1258,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 1,
+      "build_used": 2,
       "ticket": "1f70790df2ce8557f26f1989ace0b75695d79b3767c8e5bd4550de0f5974c065"
     },
     "HD-A7B5-6260-AD92-9487": {
@@ -1384,7 +1384,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 2,
+      "build_used": 3,
       "ticket": "a8afa33a1fe3f2470508be29ece6784464a3e6d1e7268ded3978bd6821036459"
     },
     "HD-2CE9-E843-2A64-D259": {
@@ -1483,7 +1483,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 0,
+      "build_used": 1,
       "ticket": "cc0e09d86177f742ba83c69ae18f56c0065407b26f4028bf3219073e25e3c215"
     },
     "HD-EF3C-E285-127D-9DBF": {
@@ -1494,6 +1494,15 @@
       "build_off": false,
       "build_used": 0,
       "ticket": "b206af5da80b74738d487ea4f689d92888bade20e387a4386f700f955ab5f9d5"
+    },
+    "HD-6504-79FA-6E4D-31F5": {
+      "enabled": true,
+      "expire": "2027-09-29",
+      "wipe": false,
+      "build_limit": 1000,
+      "build_off": false,
+      "build_used": 0,
+      "ticket": "250eb9f7fc5ac3c89b0bc2954a42b1c843aae647cc0670c95b5e8f3de19cb70e"
     }
   }
 }
