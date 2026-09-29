@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-30 00:37:36",
+  "updated": "2026-09-30 00:39:39",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -547,9 +547,9 @@
     "HD-318E-29F2-8A8C-7324": {
       "stats": {
         "BUILD": {
-          "try": 5,
+          "try": 11,
           "ok": 4,
-          "fail": 1
+          "fail": 7
         }
       },
       "last_ok": {},
@@ -739,8 +739,8 @@
     "HD-633F-434F-ADD5-33A3": {
       "stats": {
         "BUILD": {
-          "try": 5,
-          "ok": 5,
+          "try": 6,
+          "ok": 6,
           "fail": 0
         }
       },
@@ -897,6 +897,30 @@
         "BUILD": {
           "try": 2,
           "ok": 2,
+          "fail": 0
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-40D5-48D2-F8FC-22BC": {
+      "stats": {
+        "BUILD": {
+          "try": 1,
+          "ok": 1,
+          "fail": 0
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-EC4E-E989-2BD4-5E00": {
+      "stats": {
+        "BUILD": {
+          "try": 1,
+          "ok": 1,
           "fail": 0
         }
       },
@@ -1265,18 +1289,6 @@
       "last_use": {}
     },
     "HD-F5EE-FD95-45AD-FD3C": {
-      "stats": {},
-      "last_ok": {},
-      "last_fail": {},
-      "last_use": {}
-    },
-    "HD-40D5-48D2-F8FC-22BC": {
-      "stats": {},
-      "last_ok": {},
-      "last_fail": {},
-      "last_use": {}
-    },
-    "HD-EC4E-E989-2BD4-5E00": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
@@ -1655,6 +1667,12 @@
       "last_use": {}
     },
     "HD-1AA2-6F0B-1D23-C24F": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-3D15-C411-B38B-AE80": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
