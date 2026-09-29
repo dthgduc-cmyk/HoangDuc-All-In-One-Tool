@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-30 03:04:20",
+  "updated": "2026-09-30 03:13:59",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -15,8 +15,8 @@
           "fail": 0
         },
         "SCHEDULE_AUTO_MONITOR": {
-          "try": 582,
-          "ok": 582,
+          "try": 586,
+          "ok": 586,
           "fail": 0
         },
         "BUILD_CHUAN": {
@@ -40,13 +40,13 @@
           "fail": 0
         },
         "TAB_ANDROID": {
-          "try": 196,
-          "ok": 196,
+          "try": 200,
+          "ok": 200,
           "fail": 0
         },
         "TAB_DEVELOPER": {
-          "try": 96,
-          "ok": 96,
+          "try": 97,
+          "ok": 97,
           "fail": 0
         },
         "TAB_OPPO": {
@@ -166,10 +166,10 @@
         }
       },
       "last_ok": {
-        "feature": "AUTO_VIVO1",
-        "time": "2026-09-29 23:36:06",
+        "feature": "SCHEDULE_AUTO_MONITOR",
+        "time": "2026-09-30 03:05:58",
         "ok": true,
-        "button": "AUTO VIVO 1"
+        "button": "SCHEDULE AUTO MONITOR"
       },
       "last_fail": {
         "feature": "BUILD_MODEM",
@@ -178,10 +178,10 @@
         "button": "BUILD MODEM"
       },
       "last_use": {
-        "feature": "AUTO_VIVO1",
-        "time": "2026-09-29 23:36:06",
+        "feature": "SCHEDULE_AUTO_MONITOR",
+        "time": "2026-09-30 03:05:58",
         "ok": true,
-        "button": "AUTO VIVO 1"
+        "button": "SCHEDULE AUTO MONITOR"
       }
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -823,9 +823,9 @@
     "HD-A927-35E7-60C2-E5F7": {
       "stats": {
         "BUILD": {
-          "try": 3,
+          "try": 4,
           "ok": 1,
-          "fail": 2
+          "fail": 3
         }
       },
       "last_ok": {},
@@ -967,8 +967,8 @@
     "HD-1AA2-6F0B-1D23-C24F": {
       "stats": {
         "BUILD": {
-          "try": 1,
-          "ok": 1,
+          "try": 2,
+          "ok": 2,
           "fail": 0
         }
       },
@@ -1727,6 +1727,12 @@
       "last_use": {}
     },
     "HD-68FD-D233-7A9A-F95C": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-BE24-7C23-A787-BCC9": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
