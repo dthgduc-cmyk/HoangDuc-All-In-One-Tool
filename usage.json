@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-30 05:43:29",
+  "updated": "2026-09-30 06:39:30",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -15,8 +15,8 @@
           "fail": 0
         },
         "SCHEDULE_AUTO_MONITOR": {
-          "try": 620,
-          "ok": 620,
+          "try": 663,
+          "ok": 663,
           "fail": 0
         },
         "BUILD_CHUAN": {
@@ -40,8 +40,8 @@
           "fail": 0
         },
         "TAB_ANDROID": {
-          "try": 216,
-          "ok": 216,
+          "try": 228,
+          "ok": 228,
           "fail": 0
         },
         "TAB_DEVELOPER": {
@@ -50,23 +50,23 @@
           "fail": 0
         },
         "TAB_OPPO": {
-          "try": 149,
-          "ok": 149,
+          "try": 160,
+          "ok": 160,
           "fail": 0
         },
         "TAB_VIVO": {
-          "try": 83,
-          "ok": 83,
+          "try": 92,
+          "ok": 92,
           "fail": 0
         },
         "TAB_SAMSUNG": {
-          "try": 64,
-          "ok": 64,
+          "try": 73,
+          "ok": 73,
           "fail": 0
         },
         "TAB_BUILD_ROM_FIX": {
-          "try": 124,
-          "ok": 124,
+          "try": 133,
+          "ok": 133,
           "fail": 0
         },
         "BUILD_MODEM": {
@@ -90,13 +90,13 @@
           "fail": 0
         },
         "TAB_FLASH_MTK": {
-          "try": 95,
-          "ok": 95,
+          "try": 105,
+          "ok": 105,
           "fail": 0
         },
         "TAB_XIAOMI": {
-          "try": 52,
-          "ok": 52,
+          "try": 61,
+          "ok": 61,
           "fail": 0
         },
         "AUTO_OPPO_FIX2": {
@@ -135,13 +135,13 @@
           "fail": 0
         },
         "FLASH_MTK_INFO": {
-          "try": 24,
-          "ok": 24,
+          "try": 28,
+          "ok": 28,
           "fail": 0
         },
         "AUTO_OPPO_F7F9": {
-          "try": 12,
-          "ok": 12,
+          "try": 14,
+          "ok": 14,
           "fail": 0
         },
         "TAB_IPHONE": {
@@ -166,10 +166,10 @@
         }
       },
       "last_ok": {
-        "feature": "AUTO_OPPO_F7F9",
-        "time": "2026-09-30 05:35:43",
+        "feature": "FLASH_MTK_INFO",
+        "time": "2026-09-30 06:33:41",
         "ok": true,
-        "button": "VoLTE F7 F9 F11",
+        "button": "KẾT NỐI / NHẬN DIỆN",
         "phone": "VS4HFUIZ9LBAHYWC"
       },
       "last_fail": {
@@ -179,10 +179,10 @@
         "button": "BUILD MODEM"
       },
       "last_use": {
-        "feature": "AUTO_OPPO_F7F9",
-        "time": "2026-09-30 05:35:43",
+        "feature": "FLASH_MTK_INFO",
+        "time": "2026-09-30 06:33:41",
         "ok": true,
-        "button": "VoLTE F7 F9 F11",
+        "button": "KẾT NỐI / NHẬN DIỆN",
         "phone": "VS4HFUIZ9LBAHYWC"
       }
     },
@@ -1747,6 +1747,12 @@
       "last_use": {}
     },
     "HD-A890-C47A-D41C-150A": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-64CB-693F-62B0-3EE3": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
