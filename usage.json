@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-29 06:08:31",
+  "updated": "2026-09-29 07:44:21",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -15,8 +15,8 @@
           "fail": 0
         },
         "SCHEDULE_AUTO_MONITOR": {
-          "try": 411,
-          "ok": 411,
+          "try": 412,
+          "ok": 412,
           "fail": 0
         },
         "BUILD_CHUAN": {
@@ -40,8 +40,8 @@
           "fail": 0
         },
         "TAB_ANDROID": {
-          "try": 137,
-          "ok": 137,
+          "try": 138,
+          "ok": 138,
           "fail": 0
         },
         "TAB_DEVELOPER": {
@@ -75,8 +75,8 @@
           "fail": 9
         },
         "FIX_ANDROID_10": {
-          "try": 26,
-          "ok": 26,
+          "try": 28,
+          "ok": 28,
           "fail": 0
         },
         "AUTO_SAMSUNG": {
@@ -90,8 +90,8 @@
           "fail": 0
         },
         "TAB_FLASH_MTK": {
-          "try": 32,
-          "ok": 32,
+          "try": 36,
+          "ok": 36,
           "fail": 0
         },
         "TAB_XIAOMI": {
@@ -128,13 +128,23 @@
           "try": 3,
           "ok": 2,
           "fail": 1
+        },
+        "MTK_RESET": {
+          "try": 1,
+          "ok": 1,
+          "fail": 0
+        },
+        "FLASH_MTK_INFO": {
+          "try": 8,
+          "ok": 8,
+          "fail": 0
         }
       },
       "last_ok": {
-        "feature": "SCHEDULE_AUTO_MONITOR",
-        "time": "2026-09-29 01:46:37",
+        "feature": "FLASH_MTK_INFO",
+        "time": "2026-09-29 07:41:50",
         "ok": true,
-        "button": "SCHEDULE AUTO MONITOR"
+        "button": "READ INFO MTK"
       },
       "last_fail": {
         "feature": "BUILD_MODEM_FIX",
@@ -143,10 +153,10 @@
         "button": "BUILD FIX MODEM — không có Viettel"
       },
       "last_use": {
-        "feature": "SCHEDULE_AUTO_MONITOR",
-        "time": "2026-09-29 01:46:37",
+        "feature": "FLASH_MTK_INFO",
+        "time": "2026-09-29 07:41:50",
         "ok": true,
-        "button": "SCHEDULE AUTO MONITOR"
+        "button": "READ INFO MTK"
       }
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -1554,6 +1564,12 @@
       "last_use": {}
     },
     "HD-7353-9D12-ECF2-3A2F": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-EF3C-E285-127D-9DBF": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
