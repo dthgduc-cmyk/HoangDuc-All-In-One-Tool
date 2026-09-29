@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-30 00:41:16",
+  "updated": "2026-09-30 00:54:24",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -223,9 +223,9 @@
     "HD-5B74-51CD-5D7A-33CB": {
       "stats": {
         "BUILD": {
-          "try": 5,
-          "ok": 2,
-          "fail": 3
+          "try": 13,
+          "ok": 6,
+          "fail": 7
         }
       },
       "last_ok": {},
@@ -451,9 +451,9 @@
     "HD-57B2-F31B-B7D8-B772": {
       "stats": {
         "BUILD": {
-          "try": 3,
-          "ok": 0,
-          "fail": 3
+          "try": 7,
+          "ok": 1,
+          "fail": 6
         }
       },
       "last_ok": {},
@@ -703,9 +703,9 @@
     "HD-E557-ABBE-DEA7-9B73": {
       "stats": {
         "BUILD": {
-          "try": 8,
+          "try": 16,
           "ok": 8,
-          "fail": 0
+          "fail": 8
         }
       },
       "last_ok": {},
@@ -811,8 +811,8 @@
     "HD-EFF1-F0E1-B569-B4AD": {
       "stats": {
         "BUILD": {
-          "try": 4,
-          "ok": 0,
+          "try": 6,
+          "ok": 2,
           "fail": 4
         }
       },
@@ -933,6 +933,30 @@
         "BUILD": {
           "try": 2,
           "ok": 2,
+          "fail": 0
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-9AB8-2109-4673-E831": {
+      "stats": {
+        "BUILD": {
+          "try": 4,
+          "ok": 0,
+          "fail": 4
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-66F5-C1DB-682B-92AA": {
+      "stats": {
+        "BUILD": {
+          "try": 4,
+          "ok": 4,
           "fail": 0
         }
       },
@@ -1420,12 +1444,6 @@
       "last_fail": {},
       "last_use": {}
     },
-    "HD-66F5-C1DB-682B-92AA": {
-      "stats": {},
-      "last_ok": {},
-      "last_fail": {},
-      "last_use": {}
-    },
     "HD-41AA-3192-1BD8-27BC": {
       "stats": {},
       "last_ok": {},
@@ -1654,12 +1672,6 @@
       "last_fail": {},
       "last_use": {}
     },
-    "HD-9AB8-2109-4673-E831": {
-      "stats": {},
-      "last_ok": {},
-      "last_fail": {},
-      "last_use": {}
-    },
     "HD-1642-9E89-0E09-4244": {
       "stats": {},
       "last_ok": {},
@@ -1679,6 +1691,12 @@
       "last_use": {}
     },
     "HD-3D15-C411-B38B-AE80": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-5AED-2D62-5825-51BA": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
