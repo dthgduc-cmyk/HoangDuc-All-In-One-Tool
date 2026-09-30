@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-10-01 01:08:08",
+  "updated": "2026-10-01 02:13:45",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -15,8 +15,8 @@
           "fail": 0
         },
         "SCHEDULE_AUTO_MONITOR": {
-          "try": 866,
-          "ok": 866,
+          "try": 867,
+          "ok": 867,
           "fail": 0
         },
         "BUILD_CHUAN": {
@@ -40,8 +40,8 @@
           "fail": 0
         },
         "TAB_ANDROID": {
-          "try": 286,
-          "ok": 284,
+          "try": 287,
+          "ok": 285,
           "fail": 2
         },
         "TAB_DEVELOPER": {
@@ -65,8 +65,8 @@
           "fail": 0
         },
         "TAB_BUILD_ROM_FIX": {
-          "try": 174,
-          "ok": 174,
+          "try": 178,
+          "ok": 178,
           "fail": 0
         },
         "BUILD_MODEM": {
@@ -166,11 +166,10 @@
         }
       },
       "last_ok": {
-        "feature": "AUTO_OPPO_F7F9",
-        "time": "2026-09-30 14:46:20",
+        "feature": "SCHEDULE_AUTO_MONITOR",
+        "time": "2026-10-01 01:14:23",
         "ok": true,
-        "button": "VoLTE F7 F9 F11",
-        "phone": "VS4HFUIZ9LBAHYWC"
+        "button": "SCHEDULE AUTO MONITOR"
       },
       "last_fail": {
         "feature": "BUILD_MODEM",
@@ -179,11 +178,10 @@
         "button": "BUILD MODEM"
       },
       "last_use": {
-        "feature": "AUTO_OPPO_F7F9",
-        "time": "2026-09-30 14:46:20",
+        "feature": "SCHEDULE_AUTO_MONITOR",
+        "time": "2026-10-01 01:14:23",
         "ok": true,
-        "button": "VoLTE F7 F9 F11",
-        "phone": "VS4HFUIZ9LBAHYWC"
+        "button": "SCHEDULE AUTO MONITOR"
       }
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -273,8 +271,8 @@
     "HD-4142-A442-7310-C295": {
       "stats": {
         "BUILD": {
-          "try": 28,
-          "ok": 18,
+          "try": 29,
+          "ok": 19,
           "fail": 10
         }
       },
@@ -465,8 +463,8 @@
     "HD-D4FC-3E52-9206-C49D": {
       "stats": {
         "BUILD": {
-          "try": 2,
-          "ok": 2,
+          "try": 4,
+          "ok": 4,
           "fail": 0
         }
       },
@@ -501,8 +499,8 @@
     "HD-40F2-AF8F-6ABF-5597": {
       "stats": {
         "BUILD": {
-          "try": 1,
-          "ok": 1,
+          "try": 2,
+          "ok": 2,
           "fail": 0
         }
       },
@@ -657,8 +655,8 @@
     "HD-E4BC-B619-6DAE-23F3": {
       "stats": {
         "BUILD": {
-          "try": 10,
-          "ok": 4,
+          "try": 11,
+          "ok": 5,
           "fail": 6
         }
       },
@@ -801,8 +799,8 @@
     "HD-4E8E-AFE9-B013-52B4": {
       "stats": {
         "BUILD": {
-          "try": 4,
-          "ok": 2,
+          "try": 5,
+          "ok": 3,
           "fail": 2
         }
       },
@@ -849,8 +847,8 @@
     "HD-7353-9D12-ECF2-3A2F": {
       "stats": {
         "BUILD": {
-          "try": 4,
-          "ok": 4,
+          "try": 6,
+          "ok": 6,
           "fail": 0
         }
       },
@@ -969,8 +967,8 @@
     "HD-1AA2-6F0B-1D23-C24F": {
       "stats": {
         "BUILD": {
-          "try": 2,
-          "ok": 2,
+          "try": 3,
+          "ok": 3,
           "fail": 0
         }
       },
@@ -1043,6 +1041,30 @@
         "BUILD": {
           "try": 1,
           "ok": 1,
+          "fail": 0
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-CE0B-8C50-7768-0D8A": {
+      "stats": {
+        "BUILD": {
+          "try": 3,
+          "ok": 3,
+          "fail": 0
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-1642-9E89-0E09-4244": {
+      "stats": {
+        "BUILD": {
+          "try": 2,
+          "ok": 2,
           "fail": 0
         }
       },
@@ -1632,12 +1654,6 @@
       "last_fail": {},
       "last_use": {}
     },
-    "HD-CE0B-8C50-7768-0D8A": {
-      "stats": {},
-      "last_ok": {},
-      "last_fail": {},
-      "last_use": {}
-    },
     "HD-EC5F-10B2-04E1-7CA8": {
       "stats": {},
       "last_ok": {},
@@ -1734,12 +1750,6 @@
       "last_fail": {},
       "last_use": {}
     },
-    "HD-1642-9E89-0E09-4244": {
-      "stats": {},
-      "last_ok": {},
-      "last_fail": {},
-      "last_use": {}
-    },
     "HD-E958-0A4A-0B58-805E": {
       "stats": {},
       "last_ok": {},
@@ -1819,6 +1829,12 @@
       "last_use": {}
     },
     "HD-989A-EEAF-143A-2DE2": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-6D81-1474-1B0E-86E7": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
