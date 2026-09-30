@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-09-30 07:28:53",
+  "updated": "2026-09-30 07:46:57",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -65,8 +65,8 @@
           "fail": 0
         },
         "TAB_BUILD_ROM_FIX": {
-          "try": 143,
-          "ok": 143,
+          "try": 144,
+          "ok": 144,
           "fail": 0
         },
         "BUILD_MODEM": {
@@ -90,8 +90,8 @@
           "fail": 0
         },
         "TAB_FLASH_MTK": {
-          "try": 115,
-          "ok": 115,
+          "try": 116,
+          "ok": 116,
           "fail": 0
         },
         "TAB_XIAOMI": {
@@ -135,8 +135,8 @@
           "fail": 0
         },
         "FLASH_MTK_INFO": {
-          "try": 33,
-          "ok": 33,
+          "try": 34,
+          "ok": 34,
           "fail": 0
         },
         "AUTO_OPPO_F7F9": {
@@ -167,10 +167,9 @@
       },
       "last_ok": {
         "feature": "FLASH_MTK_INFO",
-        "time": "2026-09-30 07:25:53",
+        "time": "2026-09-30 07:40:12",
         "ok": true,
-        "button": "READ INFO MTK",
-        "phone": "VS4HFUIZ9LBAHYWC"
+        "button": "READ INFO MTK"
       },
       "last_fail": {
         "feature": "BUILD_MODEM",
@@ -180,10 +179,9 @@
       },
       "last_use": {
         "feature": "FLASH_MTK_INFO",
-        "time": "2026-09-30 07:25:53",
+        "time": "2026-09-30 07:40:12",
         "ok": true,
-        "button": "READ INFO MTK",
-        "phone": "VS4HFUIZ9LBAHYWC"
+        "button": "READ INFO MTK"
       }
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -213,9 +211,9 @@
     "HD-DFFE-6BCE-EB68-97D2": {
       "stats": {
         "BUILD": {
-          "try": 16,
-          "ok": 8,
-          "fail": 8
+          "try": 19,
+          "ok": 9,
+          "fail": 10
         }
       },
       "last_ok": {},
@@ -1002,6 +1000,30 @@
       "last_fail": {},
       "last_use": {}
     },
+    "HD-8AE5-E6F3-6C89-526B": {
+      "stats": {
+        "BUILD": {
+          "try": 1,
+          "ok": 1,
+          "fail": 0
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-3291-8FBD-B2E8-2F86": {
+      "stats": {
+        "BUILD": {
+          "try": 5,
+          "ok": 5,
+          "fail": 0
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
     "HD-73FE-AEF6-40D8-40AE": {
       "stats": {},
       "last_ok": {},
@@ -1728,12 +1750,6 @@
       "last_fail": {},
       "last_use": {}
     },
-    "HD-8AE5-E6F3-6C89-526B": {
-      "stats": {},
-      "last_ok": {},
-      "last_fail": {},
-      "last_use": {}
-    },
     "HD-68FD-D233-7A9A-F95C": {
       "stats": {},
       "last_ok": {},
@@ -1741,12 +1757,6 @@
       "last_use": {}
     },
     "HD-BE24-7C23-A787-BCC9": {
-      "stats": {},
-      "last_ok": {},
-      "last_fail": {},
-      "last_use": {}
-    },
-    "HD-3291-8FBD-B2E8-2F86": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
@@ -1771,6 +1781,12 @@
       "last_use": {}
     },
     "HD-FC3F-0ABA-4CEB-85D8": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-AD7B-CF4A-C53C-9365": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
