@@ -1,12 +1,12 @@
 {
   "ok": true,
-  "updated": "2026-09-30 07:53:04",
+  "updated": "2026-09-30 10:52:23",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
         "BUILD": {
-          "try": 55,
-          "ok": 31,
+          "try": 56,
+          "ok": 32,
           "fail": 24
         },
         "BUILD_SUPER_FIX": {
@@ -15,8 +15,8 @@
           "fail": 0
         },
         "SCHEDULE_AUTO_MONITOR": {
-          "try": 704,
-          "ok": 704,
+          "try": 740,
+          "ok": 740,
           "fail": 0
         },
         "BUILD_CHUAN": {
@@ -40,8 +40,8 @@
           "fail": 0
         },
         "TAB_ANDROID": {
-          "try": 237,
-          "ok": 237,
+          "try": 246,
+          "ok": 246,
           "fail": 0
         },
         "TAB_DEVELOPER": {
@@ -50,23 +50,23 @@
           "fail": 0
         },
         "TAB_OPPO": {
-          "try": 170,
-          "ok": 170,
+          "try": 178,
+          "ok": 178,
           "fail": 0
         },
         "TAB_VIVO": {
-          "try": 99,
-          "ok": 99,
+          "try": 106,
+          "ok": 106,
           "fail": 0
         },
         "TAB_SAMSUNG": {
-          "try": 83,
-          "ok": 83,
+          "try": 88,
+          "ok": 88,
           "fail": 0
         },
         "TAB_BUILD_ROM_FIX": {
-          "try": 144,
-          "ok": 144,
+          "try": 152,
+          "ok": 152,
           "fail": 0
         },
         "BUILD_MODEM": {
@@ -90,13 +90,13 @@
           "fail": 0
         },
         "TAB_FLASH_MTK": {
-          "try": 116,
-          "ok": 116,
+          "try": 123,
+          "ok": 123,
           "fail": 0
         },
         "TAB_XIAOMI": {
-          "try": 70,
-          "ok": 70,
+          "try": 77,
+          "ok": 77,
           "fail": 0
         },
         "AUTO_OPPO_FIX2": {
@@ -105,8 +105,8 @@
           "fail": 0
         },
         "BUILD_MTK": {
-          "try": 1,
-          "ok": 1,
+          "try": 2,
+          "ok": 2,
           "fail": 0
         },
         "APK_GO": {
@@ -135,8 +135,8 @@
           "fail": 0
         },
         "FLASH_MTK_INFO": {
-          "try": 34,
-          "ok": 34,
+          "try": 37,
+          "ok": 37,
           "fail": 0
         },
         "AUTO_OPPO_F7F9": {
@@ -166,10 +166,10 @@
         }
       },
       "last_ok": {
-        "feature": "FLASH_MTK_INFO",
-        "time": "2026-09-30 07:40:12",
+        "feature": "SCHEDULE_AUTO_MONITOR",
+        "time": "2026-09-30 10:50:11",
         "ok": true,
-        "button": "READ INFO MTK"
+        "button": "SCHEDULE AUTO MONITOR"
       },
       "last_fail": {
         "feature": "BUILD_MODEM",
@@ -178,10 +178,10 @@
         "button": "BUILD MODEM"
       },
       "last_use": {
-        "feature": "FLASH_MTK_INFO",
-        "time": "2026-09-30 07:40:12",
+        "feature": "SCHEDULE_AUTO_MONITOR",
+        "time": "2026-09-30 10:50:11",
         "ok": true,
-        "button": "READ INFO MTK"
+        "button": "SCHEDULE AUTO MONITOR"
       }
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -1793,6 +1793,12 @@
       "last_use": {}
     },
     "HD-8BD7-FC19-416F-EF01": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-07EE-9BEB-7D27-1F7E": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
