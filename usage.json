@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-10-01 07:30:07",
+  "updated": "2026-10-01 12:03:37",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -15,8 +15,8 @@
           "fail": 0
         },
         "SCHEDULE_AUTO_MONITOR": {
-          "try": 927,
-          "ok": 927,
+          "try": 931,
+          "ok": 931,
           "fail": 0
         },
         "BUILD_CHUAN": {
@@ -40,8 +40,8 @@
           "fail": 0
         },
         "TAB_ANDROID": {
-          "try": 309,
-          "ok": 307,
+          "try": 310,
+          "ok": 308,
           "fail": 2
         },
         "TAB_DEVELOPER": {
@@ -50,13 +50,13 @@
           "fail": 0
         },
         "TAB_OPPO": {
-          "try": 222,
-          "ok": 222,
+          "try": 223,
+          "ok": 223,
           "fail": 0
         },
         "TAB_VIVO": {
-          "try": 137,
-          "ok": 137,
+          "try": 138,
+          "ok": 138,
           "fail": 0
         },
         "TAB_SAMSUNG": {
@@ -65,8 +65,8 @@
           "fail": 0
         },
         "TAB_BUILD_ROM_FIX": {
-          "try": 191,
-          "ok": 191,
+          "try": 193,
+          "ok": 193,
           "fail": 0
         },
         "BUILD_MODEM": {
@@ -90,13 +90,13 @@
           "fail": 0
         },
         "TAB_FLASH_MTK": {
-          "try": 160,
-          "ok": 160,
+          "try": 162,
+          "ok": 162,
           "fail": 0
         },
         "TAB_XIAOMI": {
-          "try": 105,
-          "ok": 105,
+          "try": 106,
+          "ok": 106,
           "fail": 0
         },
         "AUTO_OPPO_FIX2": {
@@ -135,8 +135,8 @@
           "fail": 0
         },
         "FLASH_MTK_INFO": {
-          "try": 52,
-          "ok": 52,
+          "try": 56,
+          "ok": 56,
           "fail": 0
         },
         "AUTO_OPPO_F7F9": {
@@ -168,14 +168,28 @@
           "try": 1,
           "ok": 1,
           "fail": 0
+        },
+        "FLASH_NV_BACKUP": {
+          "try": 1,
+          "ok": 1,
+          "fail": 0
+        },
+        "FLASH_MTK": {
+          "try": 2,
+          "ok": 2,
+          "fail": 0
+        },
+        "MTK_XOA_USERDATA": {
+          "try": 1,
+          "ok": 1,
+          "fail": 0
         }
       },
       "last_ok": {
-        "feature": "SCHEDULE_AUTO_MONITOR",
-        "time": "2026-10-01 03:07:07",
+        "feature": "MTK_XOA_USERDATA",
+        "time": "2026-10-01 11:25:56",
         "ok": true,
-        "button": "SCHEDULE AUTO MONITOR",
-        "phone": "VS4HFUIZ9LBAHYWC"
+        "button": "MTK XOA USERDATA"
       },
       "last_fail": {
         "feature": "APK_GO",
@@ -185,11 +199,10 @@
         "phone": "VS4HFUIZ9LBAHYWC"
       },
       "last_use": {
-        "feature": "SCHEDULE_AUTO_MONITOR",
-        "time": "2026-10-01 03:07:07",
+        "feature": "MTK_XOA_USERDATA",
+        "time": "2026-10-01 11:25:56",
         "ok": true,
-        "button": "SCHEDULE AUTO MONITOR",
-        "phone": "VS4HFUIZ9LBAHYWC"
+        "button": "MTK XOA USERDATA"
       }
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -267,9 +280,9 @@
     "HD-ED36-B553-A127-CD0A": {
       "stats": {
         "BUILD": {
-          "try": 30,
-          "ok": 18,
-          "fail": 12
+          "try": 34,
+          "ok": 20,
+          "fail": 14
         }
       },
       "last_ok": {},
@@ -279,8 +292,8 @@
     "HD-4142-A442-7310-C295": {
       "stats": {
         "BUILD": {
-          "try": 30,
-          "ok": 20,
+          "try": 32,
+          "ok": 22,
           "fail": 10
         }
       },
@@ -495,8 +508,8 @@
     "HD-C7D6-C7A6-16D8-934F": {
       "stats": {
         "BUILD": {
-          "try": 5,
-          "ok": 5,
+          "try": 7,
+          "ok": 7,
           "fail": 0
         }
       },
@@ -759,8 +772,8 @@
     "HD-737D-D3A1-AFE3-76B9": {
       "stats": {
         "BUILD": {
-          "try": 1,
-          "ok": 1,
+          "try": 2,
+          "ok": 2,
           "fail": 0
         }
       },
@@ -1119,8 +1132,8 @@
     "HD-29EC-7304-C0E5-2C5E": {
       "stats": {
         "BUILD": {
-          "try": 6,
-          "ok": 3,
+          "try": 7,
+          "ok": 4,
           "fail": 3
         }
       },
@@ -1181,6 +1194,18 @@
         "BUILD": {
           "try": 1,
           "ok": 1,
+          "fail": 0
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-3AF1-2F17-EDB4-E7BF": {
+      "stats": {
+        "BUILD": {
+          "try": 4,
+          "ok": 4,
           "fail": 0
         }
       },
@@ -1584,12 +1609,6 @@
       "last_fail": {},
       "last_use": {}
     },
-    "HD-3AF1-2F17-EDB4-E7BF": {
-      "stats": {},
-      "last_ok": {},
-      "last_fail": {},
-      "last_use": {}
-    },
     "HD-467A-CA2C-3283-C421": {
       "stats": {},
       "last_ok": {},
@@ -1933,6 +1952,12 @@
       "last_use": {}
     },
     "HD-9745-2C2B-5923-1809": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-163D-B79F-D2E6-8EB9": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
