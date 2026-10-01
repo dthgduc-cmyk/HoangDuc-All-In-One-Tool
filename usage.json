@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-10-01 23:18:20",
+  "updated": "2026-10-01 23:42:14",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -15,8 +15,8 @@
           "fail": 0
         },
         "SCHEDULE_AUTO_MONITOR": {
-          "try": 931,
-          "ok": 931,
+          "try": 933,
+          "ok": 933,
           "fail": 0
         },
         "BUILD_CHUAN": {
@@ -40,8 +40,8 @@
           "fail": 0
         },
         "TAB_ANDROID": {
-          "try": 310,
-          "ok": 308,
+          "try": 312,
+          "ok": 310,
           "fail": 2
         },
         "TAB_DEVELOPER": {
@@ -110,8 +110,8 @@
           "fail": 0
         },
         "APK_GO": {
-          "try": 10,
-          "ok": 8,
+          "try": 12,
+          "ok": 10,
           "fail": 2
         },
         "TAB_ASUS": {
@@ -186,10 +186,10 @@
         }
       },
       "last_ok": {
-        "feature": "MTK_XOA_USERDATA",
-        "time": "2026-10-01 11:25:56",
+        "feature": "SCHEDULE_AUTO_MONITOR",
+        "time": "2026-10-01 23:33:20",
         "ok": true,
-        "button": "MTK XOA USERDATA"
+        "button": "SCHEDULE AUTO MONITOR"
       },
       "last_fail": {
         "feature": "APK_GO",
@@ -199,10 +199,10 @@
         "phone": "VS4HFUIZ9LBAHYWC"
       },
       "last_use": {
-        "feature": "MTK_XOA_USERDATA",
-        "time": "2026-10-01 11:25:56",
+        "feature": "SCHEDULE_AUTO_MONITOR",
+        "time": "2026-10-01 23:33:20",
         "ok": true,
-        "button": "MTK XOA USERDATA"
+        "button": "SCHEDULE AUTO MONITOR"
       }
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -232,9 +232,9 @@
     "HD-DFFE-6BCE-EB68-97D2": {
       "stats": {
         "BUILD": {
-          "try": 21,
-          "ok": 9,
-          "fail": 12
+          "try": 29,
+          "ok": 13,
+          "fail": 16
         }
       },
       "last_ok": {},
@@ -532,8 +532,8 @@
     "HD-1C4D-ED26-0EB6-AF78": {
       "stats": {
         "BUILD": {
-          "try": 11,
-          "ok": 7,
+          "try": 12,
+          "ok": 8,
           "fail": 4
         }
       },
@@ -1048,8 +1048,8 @@
     "HD-DF6C-715E-1F43-58E6": {
       "stats": {
         "BUILD": {
-          "try": 1,
-          "ok": 1,
+          "try": 2,
+          "ok": 2,
           "fail": 0
         }
       },
@@ -1192,8 +1192,8 @@
     "HD-64CB-693F-62B0-3EE3": {
       "stats": {
         "BUILD": {
-          "try": 1,
-          "ok": 1,
+          "try": 3,
+          "ok": 3,
           "fail": 0
         }
       },
@@ -1976,6 +1976,12 @@
       "last_use": {}
     },
     "HD-696B-6340-59C4-0102": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-D11B-4A95-1796-7A27": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
