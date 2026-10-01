@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-10-02 00:14:45",
+  "updated": "2026-10-02 03:28:22",
   "hwids": {
     "HD-73FE-AEF6-40D8-40AE": {
       "enabled": true,
@@ -44,7 +44,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 40,
+      "build_used": 43,
       "ticket": "64deaf1b6647e833867b6e244f0d40c2d9339a5587461650194336e0c173b157"
     },
     "HD-F3BE-62E1-45EA-8E64": {
@@ -116,7 +116,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 20,
+      "build_used": 21,
       "ticket": "66f5cbf5cdec9f1def7c4aa36e0a83970c25261e04cbc6058f3b10c71d087f39"
     },
     "HD-478F-E62E-A16D-19DA": {
@@ -242,7 +242,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 15,
+      "build_used": 18,
       "ticket": "c14af68f36be0165e213a3d31fa40cbcb68296e682c20ed3ba78f0d5e33d5775"
     },
     "HD-3E4D-9F68-C262-FE1E": {
@@ -494,7 +494,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 2,
+      "build_used": 5,
       "ticket": "ab178992f62f31aeeb87b86966023f53b742dd8c149b0749b73e647bc9101f42"
     },
     "HD-D603-1370-3A76-BF49": {
@@ -754,7 +754,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 5,
+      "build_used": 6,
       "ticket": "28a9f8748e06277d2c3dd7151269d2204ba5f750e59f1ee6e945ed28c4d7ed0b"
     },
     "HD-E1BB-85A1-FB23-A5C3": {
@@ -781,7 +781,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 5,
+      "build_used": 6,
       "ticket": "e5df0f3c334fc63a81c3cea021c3aa156bf43b40f466ffbb42b83aea386cd3a0"
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -916,7 +916,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 0,
+      "build_used": 1,
       "ticket": "a409fd44779b359467613005db1fa240ec19bccb5765e2ae346346e8dd11c2d7"
     },
     "HD-40F2-AF8F-6ABF-5597": {
@@ -943,7 +943,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 1,
+      "build_used": 5,
       "ticket": "0265e84d09921f5d02f7be7bb10f69cf6762ce33c48b308755bdeff66d842bac"
     },
     "HD-5C9A-E7FA-AE1A-A882": {
@@ -988,7 +988,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 2,
+      "build_used": 3,
       "ticket": "9448bfc2de09d19816ad8d55ffd5888f18d139476b372c6be02bb1aaf4d702b1"
     },
     "HD-7EBE-C649-AE65-B480": {
@@ -1060,7 +1060,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 1,
+      "build_used": 2,
       "ticket": "5035f2779d05054281249808f282b26450ff3c8b97128c4e7365915e37582eff"
     },
     "HD-0CFA-DF29-5EA9-521D": {
@@ -1195,7 +1195,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 13,
+      "build_used": 16,
       "ticket": "f1f9f5482e30fc5d4c8d9684f10ae333dc3bfe8e2106478b97766a8423446e8f"
     },
     "HD-50B5-3110-A49B-87C2": {
@@ -1438,7 +1438,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 7,
+      "build_used": 8,
       "ticket": "cc0e09d86177f742ba83c69ae18f56c0065407b26f4028bf3219073e25e3c215"
     },
     "HD-EF3C-E285-127D-9DBF": {
@@ -1726,7 +1726,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 0,
+      "build_used": 1,
       "ticket": "f9641eca5fb838cb8a17cadda0b2d0a9fec8824ae27df2f017b2eb0278e4c861"
     },
     "HD-2981-987C-1B6D-F1D9": {
@@ -1737,6 +1737,15 @@
       "build_off": false,
       "build_used": 0,
       "ticket": "7b95ff366fc2c694acf452fb620a465f4d31f52d2562168d4a1cf23864b9b980"
+    },
+    "HD-5945-D41B-A0DA-3503": {
+      "enabled": true,
+      "expire": "2027-10-02",
+      "wipe": false,
+      "build_limit": 1000,
+      "build_off": false,
+      "build_used": 0,
+      "ticket": "93ea2bbf692926a953f6d8ab5bd71b05795f9ac2dc0a1a934558206644057436"
     }
   }
 }
