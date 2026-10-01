@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-10-01 12:03:37",
+  "updated": "2026-10-01 23:18:20",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -292,8 +292,8 @@
     "HD-4142-A442-7310-C295": {
       "stats": {
         "BUILD": {
-          "try": 32,
-          "ok": 22,
+          "try": 33,
+          "ok": 23,
           "fail": 10
         }
       },
@@ -364,8 +364,8 @@
     "HD-2FAA-E4D2-10E8-1C2D": {
       "stats": {
         "BUILD": {
-          "try": 18,
-          "ok": 11,
+          "try": 19,
+          "ok": 12,
           "fail": 7
         }
       },
@@ -1072,8 +1072,8 @@
     "HD-CE0B-8C50-7768-0D8A": {
       "stats": {
         "BUILD": {
-          "try": 3,
-          "ok": 3,
+          "try": 4,
+          "ok": 4,
           "fail": 0
         }
       },
@@ -1206,6 +1206,30 @@
         "BUILD": {
           "try": 4,
           "ok": 4,
+          "fail": 0
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-9745-2C2B-5923-1809": {
+      "stats": {
+        "BUILD": {
+          "try": 10,
+          "ok": 0,
+          "fail": 10
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-4EA6-8390-FF5C-3F69": {
+      "stats": {
+        "BUILD": {
+          "try": 2,
+          "ok": 2,
           "fail": 0
         }
       },
@@ -1460,12 +1484,6 @@
       "last_use": {}
     },
     "HD-6971-CA89-C39D-E541": {
-      "stats": {},
-      "last_ok": {},
-      "last_fail": {},
-      "last_use": {}
-    },
-    "HD-4EA6-8390-FF5C-3F69": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
@@ -1951,13 +1969,13 @@
       "last_fail": {},
       "last_use": {}
     },
-    "HD-9745-2C2B-5923-1809": {
+    "HD-163D-B79F-D2E6-8EB9": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
       "last_use": {}
     },
-    "HD-163D-B79F-D2E6-8EB9": {
+    "HD-696B-6340-59C4-0102": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
