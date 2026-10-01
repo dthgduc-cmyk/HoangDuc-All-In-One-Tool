@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-10-02 00:04:32",
+  "updated": "2026-10-02 00:14:45",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -15,8 +15,8 @@
           "fail": 0
         },
         "SCHEDULE_AUTO_MONITOR": {
-          "try": 933,
-          "ok": 933,
+          "try": 934,
+          "ok": 934,
           "fail": 0
         },
         "BUILD_CHUAN": {
@@ -40,8 +40,8 @@
           "fail": 0
         },
         "TAB_ANDROID": {
-          "try": 312,
-          "ok": 310,
+          "try": 313,
+          "ok": 311,
           "fail": 2
         },
         "TAB_DEVELOPER": {
@@ -187,7 +187,7 @@
       },
       "last_ok": {
         "feature": "SCHEDULE_AUTO_MONITOR",
-        "time": "2026-10-01 23:33:20",
+        "time": "2026-10-02 00:06:44",
         "ok": true,
         "button": "SCHEDULE AUTO MONITOR"
       },
@@ -200,7 +200,7 @@
       },
       "last_use": {
         "feature": "SCHEDULE_AUTO_MONITOR",
-        "time": "2026-10-01 23:33:20",
+        "time": "2026-10-02 00:06:44",
         "ok": true,
         "button": "SCHEDULE AUTO MONITOR"
       }
@@ -532,8 +532,8 @@
     "HD-1C4D-ED26-0EB6-AF78": {
       "stats": {
         "BUILD": {
-          "try": 12,
-          "ok": 8,
+          "try": 13,
+          "ok": 9,
           "fail": 4
         }
       },
@@ -988,8 +988,8 @@
     "HD-1AA2-6F0B-1D23-C24F": {
       "stats": {
         "BUILD": {
-          "try": 3,
-          "ok": 3,
+          "try": 4,
+          "ok": 4,
           "fail": 0
         }
       },
@@ -1132,9 +1132,9 @@
     "HD-29EC-7304-C0E5-2C5E": {
       "stats": {
         "BUILD": {
-          "try": 8,
+          "try": 9,
           "ok": 4,
-          "fail": 4
+          "fail": 5
         }
       },
       "last_ok": {},
@@ -1204,8 +1204,8 @@
     "HD-3AF1-2F17-EDB4-E7BF": {
       "stats": {
         "BUILD": {
-          "try": 4,
-          "ok": 4,
+          "try": 5,
+          "ok": 5,
           "fail": 0
         }
       },
@@ -1988,6 +1988,12 @@
       "last_use": {}
     },
     "HD-F9C8-C430-AC3E-EF95": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-2981-987C-1B6D-F1D9": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
