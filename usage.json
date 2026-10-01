@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-10-01 23:42:14",
+  "updated": "2026-10-02 00:04:32",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -292,8 +292,8 @@
     "HD-4142-A442-7310-C295": {
       "stats": {
         "BUILD": {
-          "try": 33,
-          "ok": 23,
+          "try": 35,
+          "ok": 25,
           "fail": 10
         }
       },
@@ -364,8 +364,8 @@
     "HD-2FAA-E4D2-10E8-1C2D": {
       "stats": {
         "BUILD": {
-          "try": 19,
-          "ok": 12,
+          "try": 20,
+          "ok": 13,
           "fail": 7
         }
       },
@@ -616,9 +616,9 @@
     "HD-F6B5-156E-8FAD-F1DC": {
       "stats": {
         "BUILD": {
-          "try": 1,
+          "try": 2,
           "ok": 1,
-          "fail": 0
+          "fail": 1
         }
       },
       "last_ok": {},
@@ -688,8 +688,8 @@
     "HD-44C4-8E82-D82A-02CD": {
       "stats": {
         "BUILD": {
-          "try": 1,
-          "ok": 1,
+          "try": 2,
+          "ok": 2,
           "fail": 0
         }
       },
@@ -904,9 +904,9 @@
     "HD-D2FF-DB29-D93C-705A": {
       "stats": {
         "BUILD": {
-          "try": 3,
+          "try": 6,
           "ok": 3,
-          "fail": 0
+          "fail": 3
         }
       },
       "last_ok": {},
@@ -1132,9 +1132,9 @@
     "HD-29EC-7304-C0E5-2C5E": {
       "stats": {
         "BUILD": {
-          "try": 7,
+          "try": 8,
           "ok": 4,
-          "fail": 3
+          "fail": 4
         }
       },
       "last_ok": {},
@@ -1216,9 +1216,9 @@
     "HD-9745-2C2B-5923-1809": {
       "stats": {
         "BUILD": {
-          "try": 10,
-          "ok": 0,
-          "fail": 10
+          "try": 23,
+          "ok": 11,
+          "fail": 12
         }
       },
       "last_ok": {},
@@ -1982,6 +1982,12 @@
       "last_use": {}
     },
     "HD-D11B-4A95-1796-7A27": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-F9C8-C430-AC3E-EF95": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},

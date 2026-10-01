@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-10-01 23:42:13",
+  "updated": "2026-10-02 00:04:32",
   "hwids": {
     "HD-73FE-AEF6-40D8-40AE": {
       "enabled": true,
@@ -341,7 +341,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 23,
+      "build_used": 25,
       "ticket": "c807a19049737f0d0d850f35bc33338920334785cc661452b2bd6c6906e26868"
     },
     "HD-4E8E-AFE9-B013-52B4": {
@@ -988,7 +988,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 1,
+      "build_used": 2,
       "ticket": "9448bfc2de09d19816ad8d55ffd5888f18d139476b372c6be02bb1aaf4d702b1"
     },
     "HD-7EBE-C649-AE65-B480": {
@@ -1195,7 +1195,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 12,
+      "build_used": 13,
       "ticket": "f1f9f5482e30fc5d4c8d9684f10ae333dc3bfe8e2106478b97766a8423446e8f"
     },
     "HD-50B5-3110-A49B-87C2": {
@@ -1690,7 +1690,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 0,
+      "build_used": 11,
       "ticket": "8cefd91641341315373ca679df0db13d1e8a19327d0e1b9a01cd03949c0a6dba"
     },
     "HD-163D-B79F-D2E6-8EB9": {
@@ -1719,6 +1719,15 @@
       "build_off": false,
       "build_used": 0,
       "ticket": "bfe386b27fd5223ec7bb50911ede4bc73b8269db553bff9843daa75d7de14f93"
+    },
+    "HD-F9C8-C430-AC3E-EF95": {
+      "enabled": true,
+      "expire": "2027-10-02",
+      "wipe": false,
+      "build_limit": 1000,
+      "build_off": false,
+      "build_used": 0,
+      "ticket": "f9641eca5fb838cb8a17cadda0b2d0a9fec8824ae27df2f017b2eb0278e4c861"
     }
   }
 }
