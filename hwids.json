@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-10-03 00:11:31",
+  "updated": "2026-10-03 06:02:11",
   "hwids": {
     "HD-73FE-AEF6-40D8-40AE": {
       "enabled": true,
@@ -1051,7 +1051,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 0,
+      "build_used": 1,
       "ticket": "1eade476fdfdc3cc744bcebec0e51cd38b7a88a34edfa56e3817bfebbda9956a"
     },
     "HD-57B2-F31B-B7D8-B772": {
@@ -1060,7 +1060,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 2,
+      "build_used": 4,
       "ticket": "5035f2779d05054281249808f282b26450ff3c8b97128c4e7365915e37582eff"
     },
     "HD-0CFA-DF29-5EA9-521D": {
@@ -1555,7 +1555,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 5,
+      "build_used": 6,
       "ticket": "4a6bce9af1b267dcc66fc618750e805f97f85abb21d355568d806081c9b2816c"
     },
     "HD-A890-C47A-D41C-150A": {
@@ -1717,7 +1717,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 7,
+      "build_used": 8,
       "ticket": "bfe386b27fd5223ec7bb50911ede4bc73b8269db553bff9843daa75d7de14f93"
     },
     "HD-F9C8-C430-AC3E-EF95": {
@@ -1726,7 +1726,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 2,
+      "build_used": 3,
       "ticket": "f9641eca5fb838cb8a17cadda0b2d0a9fec8824ae27df2f017b2eb0278e4c861"
     },
     "HD-2981-987C-1B6D-F1D9": {
@@ -1771,7 +1771,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 0,
+      "build_used": 4,
       "ticket": "ffcb6d926c34008ccae6a496769124ec7cd530d1522b37168d4a9810cb590571"
     },
     "HD-1BBC-B5CE-D07E-C369": {
@@ -1782,6 +1782,15 @@
       "build_off": false,
       "build_used": 0,
       "ticket": "f44b0ef3854f371929648f91ec7df44cff8d3439c084a6354c6afd5e9fcf5592"
+    },
+    "HD-3AB6-6583-433B-22AB": {
+      "enabled": true,
+      "expire": "2027-10-03",
+      "wipe": false,
+      "build_limit": 1000,
+      "build_off": false,
+      "build_used": 0,
+      "ticket": "ce98a8101df4fcec986c625dd23156c7dca51d25133139b459f09f9fdb09ede5"
     }
   }
 }
