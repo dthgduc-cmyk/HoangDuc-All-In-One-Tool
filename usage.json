@@ -1,12 +1,12 @@
 {
   "ok": true,
-  "updated": "2026-10-02 03:28:22",
+  "updated": "2026-10-02 07:26:19",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
         "BUILD": {
-          "try": 67,
-          "ok": 43,
+          "try": 68,
+          "ok": 44,
           "fail": 24
         },
         "BUILD_SUPER_FIX": {
@@ -15,8 +15,8 @@
           "fail": 0
         },
         "SCHEDULE_AUTO_MONITOR": {
-          "try": 940,
-          "ok": 940,
+          "try": 941,
+          "ok": 941,
           "fail": 0
         },
         "BUILD_CHUAN": {
@@ -40,8 +40,8 @@
           "fail": 0
         },
         "TAB_ANDROID": {
-          "try": 315,
-          "ok": 313,
+          "try": 316,
+          "ok": 314,
           "fail": 2
         },
         "TAB_DEVELOPER": {
@@ -65,8 +65,8 @@
           "fail": 0
         },
         "TAB_BUILD_ROM_FIX": {
-          "try": 196,
-          "ok": 196,
+          "try": 197,
+          "ok": 197,
           "fail": 0
         },
         "BUILD_MODEM": {
@@ -90,8 +90,8 @@
           "fail": 0
         },
         "TAB_FLASH_MTK": {
-          "try": 163,
-          "ok": 163,
+          "try": 164,
+          "ok": 164,
           "fail": 0
         },
         "TAB_XIAOMI": {
@@ -105,8 +105,8 @@
           "fail": 0
         },
         "BUILD_MTK": {
-          "try": 4,
-          "ok": 4,
+          "try": 5,
+          "ok": 5,
           "fail": 0
         },
         "APK_GO": {
@@ -130,13 +130,13 @@
           "fail": 1
         },
         "MTK_RESET": {
-          "try": 1,
-          "ok": 1,
+          "try": 2,
+          "ok": 2,
           "fail": 0
         },
         "FLASH_MTK_INFO": {
-          "try": 56,
-          "ok": 56,
+          "try": 63,
+          "ok": 63,
           "fail": 0
         },
         "AUTO_OPPO_F7F9": {
@@ -183,14 +183,33 @@
           "try": 1,
           "ok": 1,
           "fail": 0
+        },
+        "FLASH_NV_RESTORE": {
+          "try": 1,
+          "ok": 1,
+          "fail": 0
+        },
+        "VENDOR_RESTORE_NV_FILE": {
+          "try": 1,
+          "ok": 1,
+          "fail": 0
+        },
+        "MO_BOOTLOADER": {
+          "try": 1,
+          "ok": 1,
+          "fail": 0
+        },
+        "KHOA_BOOTLOADER": {
+          "try": 1,
+          "ok": 1,
+          "fail": 0
         }
       },
       "last_ok": {
-        "feature": "BUILD_MODEM_FIX",
-        "time": "2026-10-02 02:32:10",
+        "feature": "MTK_RESET",
+        "time": "2026-10-02 04:56:45",
         "ok": true,
-        "button": "BUILD FIX MODEM — không có Viettel",
-        "phone": "modem_rm5i rmx2030 and10"
+        "button": "MTK RESET"
       },
       "last_fail": {
         "feature": "APK_GO",
@@ -200,11 +219,10 @@
         "phone": "VS4HFUIZ9LBAHYWC"
       },
       "last_use": {
-        "feature": "BUILD_MODEM_FIX",
-        "time": "2026-10-02 02:32:10",
+        "feature": "MTK_RESET",
+        "time": "2026-10-02 04:56:45",
         "ok": true,
-        "button": "BUILD FIX MODEM — không có Viettel",
-        "phone": "modem_rm5i rmx2030 and10"
+        "button": "MTK RESET"
       }
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -1002,8 +1020,8 @@
     "HD-E95E-1F2F-C6A5-791D": {
       "stats": {
         "BUILD": {
-          "try": 1,
-          "ok": 1,
+          "try": 2,
+          "ok": 2,
           "fail": 0
         }
       },
@@ -1110,8 +1128,8 @@
     "HD-B656-D2FB-29E2-8C05": {
       "stats": {
         "BUILD": {
-          "try": 5,
-          "ok": 5,
+          "try": 6,
+          "ok": 6,
           "fail": 0
         }
       },
@@ -1134,9 +1152,9 @@
     "HD-29EC-7304-C0E5-2C5E": {
       "stats": {
         "BUILD": {
-          "try": 9,
+          "try": 12,
           "ok": 4,
-          "fail": 5
+          "fail": 8
         }
       },
       "last_ok": {},
@@ -1257,6 +1275,18 @@
           "try": 1,
           "ok": 1,
           "fail": 0
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-5945-D41B-A0DA-3503": {
+      "stats": {
+        "BUILD": {
+          "try": 5,
+          "ok": 2,
+          "fail": 3
         }
       },
       "last_ok": {},
@@ -2013,7 +2043,7 @@
       "last_fail": {},
       "last_use": {}
     },
-    "HD-5945-D41B-A0DA-3503": {
+    "HD-90FA-5E38-9D92-96CD": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
