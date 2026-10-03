@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-10-03 19:50:35",
+  "updated": "2026-10-03 20:12:37",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -300,9 +300,9 @@
     "HD-ED36-B553-A127-CD0A": {
       "stats": {
         "BUILD": {
-          "try": 42,
+          "try": 46,
           "ok": 24,
-          "fail": 18
+          "fail": 22
         }
       },
       "last_ok": {},
@@ -1212,8 +1212,8 @@
     "HD-64CB-693F-62B0-3EE3": {
       "stats": {
         "BUILD": {
-          "try": 3,
-          "ok": 3,
+          "try": 7,
+          "ok": 7,
           "fail": 0
         }
       },
@@ -1344,8 +1344,8 @@
     "HD-A0D3-FFB6-FA78-8A3C": {
       "stats": {
         "BUILD": {
-          "try": 13,
-          "ok": 13,
+          "try": 15,
+          "ok": 15,
           "fail": 0
         }
       },
@@ -1368,8 +1368,8 @@
     "HD-68FD-D233-7A9A-F95C": {
       "stats": {
         "BUILD": {
-          "try": 2,
-          "ok": 2,
+          "try": 3,
+          "ok": 3,
           "fail": 0
         }
       },
@@ -2134,6 +2134,12 @@
       "last_use": {}
     },
     "HD-0F56-E196-68D7-797D": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-5F40-674D-40F4-597A": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
