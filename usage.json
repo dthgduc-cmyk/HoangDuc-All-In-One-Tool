@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-10-03 20:12:37",
+  "updated": "2026-10-04 08:59:28",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -300,8 +300,8 @@
     "HD-ED36-B553-A127-CD0A": {
       "stats": {
         "BUILD": {
-          "try": 46,
-          "ok": 24,
+          "try": 48,
+          "ok": 26,
           "fail": 22
         }
       },
@@ -804,8 +804,8 @@
     "HD-A5AF-286B-106F-531D": {
       "stats": {
         "BUILD": {
-          "try": 4,
-          "ok": 0,
+          "try": 5,
+          "ok": 1,
           "fail": 4
         }
       },
@@ -1380,9 +1380,9 @@
     "HD-90FA-5E38-9D92-96CD": {
       "stats": {
         "BUILD": {
-          "try": 10,
+          "try": 12,
           "ok": 2,
-          "fail": 8
+          "fail": 10
         }
       },
       "last_ok": {},
@@ -1395,6 +1395,30 @@
           "try": 2,
           "ok": 2,
           "fail": 0
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-989A-EEAF-143A-2DE2": {
+      "stats": {
+        "BUILD": {
+          "try": 2,
+          "ok": 2,
+          "fail": 0
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-94DE-B61D-A9F0-1088": {
+      "stats": {
+        "BUILD": {
+          "try": 9,
+          "ok": 5,
+          "fail": 4
         }
       },
       "last_ok": {},
@@ -1498,12 +1522,6 @@
       "last_use": {}
     },
     "HD-6EE1-778E-9BA2-EC21": {
-      "stats": {},
-      "last_ok": {},
-      "last_fail": {},
-      "last_use": {}
-    },
-    "HD-94DE-B61D-A9F0-1088": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
@@ -2079,12 +2097,6 @@
       "last_fail": {},
       "last_use": {}
     },
-    "HD-989A-EEAF-143A-2DE2": {
-      "stats": {},
-      "last_ok": {},
-      "last_fail": {},
-      "last_use": {}
-    },
     "HD-34D1-B092-9A6F-B229": {
       "stats": {},
       "last_ok": {},
@@ -2140,6 +2152,12 @@
       "last_use": {}
     },
     "HD-5F40-674D-40F4-597A": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-F00B-0757-B596-68AE": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
