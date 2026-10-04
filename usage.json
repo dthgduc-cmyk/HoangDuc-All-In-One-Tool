@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-10-04 10:25:33",
+  "updated": "2026-10-04 14:16:00",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -15,8 +15,8 @@
           "fail": 0
         },
         "SCHEDULE_AUTO_MONITOR": {
-          "try": 946,
-          "ok": 946,
+          "try": 947,
+          "ok": 947,
           "fail": 0
         },
         "BUILD_CHUAN": {
@@ -65,8 +65,8 @@
           "fail": 0
         },
         "TAB_BUILD_ROM_FIX": {
-          "try": 198,
-          "ok": 198,
+          "try": 199,
+          "ok": 199,
           "fail": 0
         },
         "BUILD_MODEM": {
@@ -90,13 +90,13 @@
           "fail": 0
         },
         "TAB_FLASH_MTK": {
-          "try": 165,
-          "ok": 165,
+          "try": 166,
+          "ok": 166,
           "fail": 0
         },
         "TAB_XIAOMI": {
-          "try": 107,
-          "ok": 107,
+          "try": 108,
+          "ok": 108,
           "fail": 0
         },
         "AUTO_OPPO_FIX2": {
@@ -207,7 +207,7 @@
       },
       "last_ok": {
         "feature": "SCHEDULE_AUTO_MONITOR",
-        "time": "2026-10-03 01:29:02",
+        "time": "2026-10-04 10:30:49",
         "ok": true,
         "button": "SCHEDULE AUTO MONITOR"
       },
@@ -220,7 +220,7 @@
       },
       "last_use": {
         "feature": "SCHEDULE_AUTO_MONITOR",
-        "time": "2026-10-03 01:29:02",
+        "time": "2026-10-04 10:30:49",
         "ok": true,
         "button": "SCHEDULE AUTO MONITOR"
       }
@@ -2176,6 +2176,12 @@
       "last_use": {}
     },
     "HD-8906-B0FC-1345-E3F2": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-F826-A93C-351C-9D90": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
