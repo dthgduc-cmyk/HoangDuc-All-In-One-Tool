@@ -1,12 +1,12 @@
 {
   "ok": true,
-  "updated": "2026-10-05 07:40:52",
+  "updated": "2026-10-06 02:05:33",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
         "BUILD": {
-          "try": 68,
-          "ok": 44,
+          "try": 70,
+          "ok": 46,
           "fail": 24
         },
         "BUILD_SUPER_FIX": {
@@ -65,8 +65,8 @@
           "fail": 0
         },
         "TAB_BUILD_ROM_FIX": {
-          "try": 200,
-          "ok": 200,
+          "try": 201,
+          "ok": 201,
           "fail": 0
         },
         "BUILD_MODEM": {
@@ -125,8 +125,8 @@
           "fail": 0
         },
         "BUILD_MODEM_FIX": {
-          "try": 11,
-          "ok": 10,
+          "try": 12,
+          "ok": 11,
           "fail": 1
         },
         "MTK_RESET": {
@@ -206,10 +206,11 @@
         }
       },
       "last_ok": {
-        "feature": "SCHEDULE_AUTO_MONITOR",
-        "time": "2026-10-05 07:17:42",
+        "feature": "BUILD_MODEM_FIX",
+        "time": "2026-10-06 01:20:11",
         "ok": true,
-        "button": "SCHEDULE AUTO MONITOR"
+        "button": "BUILD FIX MODEM — không có Viettel",
+        "phone": "modem"
       },
       "last_fail": {
         "feature": "APK_GO",
@@ -219,10 +220,11 @@
         "phone": "VS4HFUIZ9LBAHYWC"
       },
       "last_use": {
-        "feature": "SCHEDULE_AUTO_MONITOR",
-        "time": "2026-10-05 07:17:42",
+        "feature": "BUILD_MODEM_FIX",
+        "time": "2026-10-06 01:20:11",
         "ok": true,
-        "button": "SCHEDULE AUTO MONITOR"
+        "button": "BUILD FIX MODEM — không có Viettel",
+        "phone": "modem"
       }
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -300,8 +302,8 @@
     "HD-ED36-B553-A127-CD0A": {
       "stats": {
         "BUILD": {
-          "try": 56,
-          "ok": 30,
+          "try": 58,
+          "ok": 32,
           "fail": 26
         }
       },
@@ -312,8 +314,8 @@
     "HD-4142-A442-7310-C295": {
       "stats": {
         "BUILD": {
-          "try": 45,
-          "ok": 28,
+          "try": 46,
+          "ok": 29,
           "fail": 17
         }
       },
@@ -504,8 +506,8 @@
     "HD-D4FC-3E52-9206-C49D": {
       "stats": {
         "BUILD": {
-          "try": 8,
-          "ok": 8,
+          "try": 9,
+          "ok": 9,
           "fail": 0
         }
       },
@@ -528,8 +530,8 @@
     "HD-C7D6-C7A6-16D8-934F": {
       "stats": {
         "BUILD": {
-          "try": 16,
-          "ok": 16,
+          "try": 18,
+          "ok": 18,
           "fail": 0
         }
       },
@@ -660,8 +662,8 @@
     "HD-5022-CDB5-7409-738E": {
       "stats": {
         "BUILD": {
-          "try": 2,
-          "ok": 2,
+          "try": 3,
+          "ok": 3,
           "fail": 0
         }
       },
@@ -1020,8 +1022,8 @@
     "HD-E95E-1F2F-C6A5-791D": {
       "stats": {
         "BUILD": {
-          "try": 2,
-          "ok": 2,
+          "try": 4,
+          "ok": 4,
           "fail": 0
         }
       },
@@ -1152,8 +1154,8 @@
     "HD-29EC-7304-C0E5-2C5E": {
       "stats": {
         "BUILD": {
-          "try": 20,
-          "ok": 10,
+          "try": 22,
+          "ok": 12,
           "fail": 10
         }
       },
@@ -1308,8 +1310,8 @@
     "HD-696B-6340-59C4-0102": {
       "stats": {
         "BUILD": {
-          "try": 2,
-          "ok": 2,
+          "try": 3,
+          "ok": 3,
           "fail": 0
         }
       },
@@ -1440,8 +1442,8 @@
     "HD-351C-D634-2C1D-9600": {
       "stats": {
         "BUILD": {
-          "try": 2,
-          "ok": 2,
+          "try": 3,
+          "ok": 3,
           "fail": 0
         }
       },
@@ -1560,8 +1562,8 @@
     "HD-6491-9526-E9FB-1B5B": {
       "stats": {
         "BUILD": {
-          "try": 1,
-          "ok": 1,
+          "try": 4,
+          "ok": 4,
           "fail": 0
         }
       },
@@ -2278,6 +2280,12 @@
       "last_use": {}
     },
     "HD-9B5A-0149-B060-A3D3": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-33CF-AB08-E31A-A7F8": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
