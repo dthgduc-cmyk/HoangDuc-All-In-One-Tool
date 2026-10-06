@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-10-06 05:04:44",
+  "updated": "2026-10-06 09:57:00",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -314,8 +314,8 @@
     "HD-4142-A442-7310-C295": {
       "stats": {
         "BUILD": {
-          "try": 46,
-          "ok": 29,
+          "try": 48,
+          "ok": 31,
           "fail": 17
         }
       },
@@ -362,8 +362,8 @@
     "HD-3396-BA62-B6D5-69A2": {
       "stats": {
         "BUILD": {
-          "try": 6,
-          "ok": 3,
+          "try": 7,
+          "ok": 4,
           "fail": 3
         }
       },
@@ -446,8 +446,8 @@
     "HD-4B4C-701A-E308-A836": {
       "stats": {
         "BUILD": {
-          "try": 22,
-          "ok": 8,
+          "try": 24,
+          "ok": 10,
           "fail": 14
         }
       },
@@ -530,8 +530,8 @@
     "HD-C7D6-C7A6-16D8-934F": {
       "stats": {
         "BUILD": {
-          "try": 20,
-          "ok": 20,
+          "try": 21,
+          "ok": 21,
           "fail": 0
         }
       },
@@ -674,8 +674,8 @@
     "HD-3E4D-9F68-C262-FE1E": {
       "stats": {
         "BUILD": {
-          "try": 8,
-          "ok": 8,
+          "try": 9,
+          "ok": 9,
           "fail": 0
         }
       },
@@ -746,9 +746,9 @@
     "HD-E557-ABBE-DEA7-9B73": {
       "stats": {
         "BUILD": {
-          "try": 16,
+          "try": 20,
           "ok": 8,
-          "fail": 8
+          "fail": 12
         }
       },
       "last_ok": {},
@@ -1154,9 +1154,9 @@
     "HD-29EC-7304-C0E5-2C5E": {
       "stats": {
         "BUILD": {
-          "try": 22,
+          "try": 25,
           "ok": 12,
-          "fail": 10
+          "fail": 13
         }
       },
       "last_ok": {},
@@ -1250,8 +1250,8 @@
     "HD-4EA6-8390-FF5C-3F69": {
       "stats": {
         "BUILD": {
-          "try": 6,
-          "ok": 6,
+          "try": 8,
+          "ok": 8,
           "fail": 0
         }
       },
@@ -1262,8 +1262,8 @@
     "HD-F4FD-8A19-9A25-C216": {
       "stats": {
         "BUILD": {
-          "try": 16,
-          "ok": 6,
+          "try": 20,
+          "ok": 10,
           "fail": 10
         }
       },
@@ -2316,6 +2316,12 @@
       "last_use": {}
     },
     "HD-F6B2-6891-B7F3-D313": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-57AF-E461-5D97-C50C": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
