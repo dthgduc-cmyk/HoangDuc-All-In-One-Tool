@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-10-07 17:46:44",
+  "updated": "2026-10-07 20:07:14",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -1310,8 +1310,8 @@
     "HD-696B-6340-59C4-0102": {
       "stats": {
         "BUILD": {
-          "try": 4,
-          "ok": 4,
+          "try": 6,
+          "ok": 6,
           "fail": 0
         }
       },
@@ -1478,8 +1478,8 @@
     "HD-8906-B0FC-1345-E3F2": {
       "stats": {
         "BUILD": {
-          "try": 2,
-          "ok": 2,
+          "try": 4,
+          "ok": 4,
           "fail": 0
         }
       },
@@ -1608,6 +1608,30 @@
       "last_use": {}
     },
     "HD-D6D7-F240-6B60-5292": {
+      "stats": {
+        "BUILD": {
+          "try": 1,
+          "ok": 1,
+          "fail": 0
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-9142-1494-DB60-1B06": {
+      "stats": {
+        "BUILD": {
+          "try": 3,
+          "ok": 3,
+          "fail": 0
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-30F1-A153-0FBD-B5B5": {
       "stats": {
         "BUILD": {
           "try": 1,
@@ -2213,12 +2237,6 @@
       "last_fail": {},
       "last_use": {}
     },
-    "HD-9142-1494-DB60-1B06": {
-      "stats": {},
-      "last_ok": {},
-      "last_fail": {},
-      "last_use": {}
-    },
     "HD-AD7B-CF4A-C53C-9365": {
       "stats": {},
       "last_ok": {},
@@ -2339,12 +2357,6 @@
       "last_fail": {},
       "last_use": {}
     },
-    "HD-30F1-A153-0FBD-B5B5": {
-      "stats": {},
-      "last_ok": {},
-      "last_fail": {},
-      "last_use": {}
-    },
     "HD-666F-BC1F-3A2F-F4BO": {
       "stats": {},
       "last_ok": {},
@@ -2358,6 +2370,12 @@
       "last_use": {}
     },
     "HD-4291-2594-2655-1026": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-6AD8-F558-863B-AAFB": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
