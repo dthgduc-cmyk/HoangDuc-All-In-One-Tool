@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-10-08 12:32:56",
+  "updated": "2026-10-08 15:32:41",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -15,8 +15,8 @@
           "fail": 0
         },
         "SCHEDULE_AUTO_MONITOR": {
-          "try": 953,
-          "ok": 953,
+          "try": 955,
+          "ok": 955,
           "fail": 0
         },
         "BUILD_CHUAN": {
@@ -40,8 +40,8 @@
           "fail": 0
         },
         "TAB_ANDROID": {
-          "try": 319,
-          "ok": 317,
+          "try": 320,
+          "ok": 318,
           "fail": 2
         },
         "TAB_DEVELOPER": {
@@ -65,8 +65,8 @@
           "fail": 0
         },
         "TAB_BUILD_ROM_FIX": {
-          "try": 201,
-          "ok": 201,
+          "try": 202,
+          "ok": 202,
           "fail": 0
         },
         "BUILD_MODEM": {
@@ -90,8 +90,8 @@
           "fail": 0
         },
         "TAB_FLASH_MTK": {
-          "try": 167,
-          "ok": 167,
+          "try": 168,
+          "ok": 168,
           "fail": 0
         },
         "TAB_XIAOMI": {
@@ -205,17 +205,17 @@
           "fail": 0
         },
         "TAB_VOLTE": {
-          "try": 1,
-          "ok": 1,
+          "try": 2,
+          "ok": 2,
           "fail": 0
         }
       },
       "last_ok": {
         "feature": "SCHEDULE_AUTO_MONITOR",
-        "time": "2026-10-08 08:26:20",
+        "time": "2026-10-08 13:38:31",
         "ok": true,
         "button": "SCHEDULE AUTO MONITOR",
-        "phone": "Chưa rõ Chưa rõ"
+        "phone": "Chưa rõ  |  Model: Chưa rõ"
       },
       "last_fail": {
         "feature": "APK_GO",
@@ -226,10 +226,10 @@
       },
       "last_use": {
         "feature": "SCHEDULE_AUTO_MONITOR",
-        "time": "2026-10-08 08:26:20",
+        "time": "2026-10-08 13:38:31",
         "ok": true,
         "button": "SCHEDULE AUTO MONITOR",
-        "phone": "Chưa rõ Chưa rõ"
+        "phone": "Chưa rõ  |  Model: Chưa rõ"
       }
     },
     "HD-1F82-C4DF-2F1A-7D12": {
@@ -247,8 +247,8 @@
     "HD-9116-0E73-F727-0445": {
       "stats": {
         "BUILD": {
-          "try": 23,
-          "ok": 18,
+          "try": 26,
+          "ok": 21,
           "fail": 5
         }
       },
@@ -259,8 +259,8 @@
     "HD-DFFE-6BCE-EB68-97D2": {
       "stats": {
         "BUILD": {
-          "try": 39,
-          "ok": 14,
+          "try": 40,
+          "ok": 15,
           "fail": 25
         }
       },
@@ -331,8 +331,8 @@
     "HD-8BB7-53B5-0550-D0FF": {
       "stats": {
         "BUILD": {
-          "try": 27,
-          "ok": 11,
+          "try": 28,
+          "ok": 12,
           "fail": 16
         }
       },
@@ -355,8 +355,8 @@
     "HD-EF3C-4115-4BB7-28D3": {
       "stats": {
         "BUILD": {
-          "try": 6,
-          "ok": 4,
+          "try": 8,
+          "ok": 6,
           "fail": 2
         }
       },
@@ -367,8 +367,8 @@
     "HD-3396-BA62-B6D5-69A2": {
       "stats": {
         "BUILD": {
-          "try": 7,
-          "ok": 4,
+          "try": 8,
+          "ok": 5,
           "fail": 3
         }
       },
@@ -499,9 +499,9 @@
     "HD-57B2-F31B-B7D8-B772": {
       "stats": {
         "BUILD": {
-          "try": 26,
+          "try": 28,
           "ok": 6,
-          "fail": 20
+          "fail": 22
         }
       },
       "last_ok": {},
@@ -559,8 +559,8 @@
     "HD-1C4D-ED26-0EB6-AF78": {
       "stats": {
         "BUILD": {
-          "try": 17,
-          "ok": 13,
+          "try": 19,
+          "ok": 15,
           "fail": 4
         }
       },
@@ -619,8 +619,8 @@
     "HD-83C4-186A-F772-6855": {
       "stats": {
         "BUILD": {
-          "try": 15,
-          "ok": 3,
+          "try": 17,
+          "ok": 5,
           "fail": 12
         }
       },
@@ -679,8 +679,8 @@
     "HD-3E4D-9F68-C262-FE1E": {
       "stats": {
         "BUILD": {
-          "try": 10,
-          "ok": 10,
+          "try": 12,
+          "ok": 12,
           "fail": 0
         }
       },
@@ -727,8 +727,8 @@
     "HD-D178-2D96-6AA4-408A": {
       "stats": {
         "BUILD": {
-          "try": 12,
-          "ok": 7,
+          "try": 15,
+          "ok": 10,
           "fail": 5
         }
       },
@@ -967,8 +967,8 @@
     "HD-EC4E-E989-2BD4-5E00": {
       "stats": {
         "BUILD": {
-          "try": 31,
-          "ok": 13,
+          "try": 35,
+          "ok": 17,
           "fail": 18
         }
       },
@@ -1039,9 +1039,9 @@
     "HD-399C-6D68-27B3-0127": {
       "stats": {
         "BUILD": {
-          "try": 31,
-          "ok": 31,
-          "fail": 0
+          "try": 41,
+          "ok": 40,
+          "fail": 1
         }
       },
       "last_ok": {},
@@ -1159,8 +1159,8 @@
     "HD-29EC-7304-C0E5-2C5E": {
       "stats": {
         "BUILD": {
-          "try": 30,
-          "ok": 17,
+          "try": 33,
+          "ok": 20,
           "fail": 13
         }
       },
@@ -1195,8 +1195,8 @@
     "HD-F5EE-FD95-45AD-FD3C": {
       "stats": {
         "BUILD": {
-          "try": 6,
-          "ok": 3,
+          "try": 7,
+          "ok": 4,
           "fail": 3
         }
       },
@@ -1219,9 +1219,9 @@
     "HD-64CB-693F-62B0-3EE3": {
       "stats": {
         "BUILD": {
-          "try": 20,
+          "try": 30,
           "ok": 20,
-          "fail": 0
+          "fail": 10
         }
       },
       "last_ok": {},
@@ -1267,8 +1267,8 @@
     "HD-F4FD-8A19-9A25-C216": {
       "stats": {
         "BUILD": {
-          "try": 20,
-          "ok": 10,
+          "try": 21,
+          "ok": 11,
           "fail": 10
         }
       },
@@ -1303,8 +1303,8 @@
     "HD-5385-30FA-1B1B-F18C": {
       "stats": {
         "BUILD": {
-          "try": 8,
-          "ok": 8,
+          "try": 10,
+          "ok": 10,
           "fail": 0
         }
       },
@@ -1459,8 +1459,8 @@
     "HD-FC3F-0ABA-4CEB-85D8": {
       "stats": {
         "BUILD": {
-          "try": 4,
-          "ok": 4,
+          "try": 8,
+          "ok": 8,
           "fail": 0
         }
       },
@@ -1555,8 +1555,8 @@
     "HD-0F56-E196-68D7-797D": {
       "stats": {
         "BUILD": {
-          "try": 3,
-          "ok": 3,
+          "try": 11,
+          "ok": 11,
           "fail": 0
         }
       },
