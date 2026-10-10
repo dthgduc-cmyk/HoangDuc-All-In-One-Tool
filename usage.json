@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-10-10 09:54:54",
+  "updated": "2026-10-10 10:39:01",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
@@ -631,9 +631,9 @@
     "HD-1D12-B696-CA95-039D": {
       "stats": {
         "BUILD": {
-          "try": 6,
+          "try": 3,
           "ok": 3,
-          "fail": 3
+          "fail": 0
         }
       },
       "last_ok": {},
@@ -2458,7 +2458,7 @@
       "last_fail": {},
       "last_use": {}
     },
-    "HD-780B-7D2B-3A13-23A1": {
+    "HD-EAB6-802A-E5D7-293F": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
