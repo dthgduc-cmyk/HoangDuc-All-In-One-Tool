@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updated": "2026-10-10 10:39:01",
+  "updated": "2026-10-10 11:14:58",
   "hwids": {
     "HD-73FE-AEF6-40D8-40AE": {
       "enabled": true,
@@ -269,7 +269,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 5,
+      "build_used": 6,
       "ticket": "a79ae33c4030a958ebb72e3a30a8f13b38e95030808a0dc5c376048857cee2b2"
     },
     "HD-D4FC-3E52-9206-C49D": {
@@ -458,7 +458,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 14,
+      "build_used": 15,
       "ticket": "67c051ab98750b6dc1a72a0666fdff3d84ac657af66362ea25c1e22485eb8db2"
     },
     "HD-6971-CA89-C39D-E541": {
@@ -1168,7 +1168,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 23,
+      "build_used": 24,
       "ticket": "f1f9f5482e30fc5d4c8d9684f10ae333dc3bfe8e2106478b97766a8423446e8f"
     },
     "HD-50B5-3110-A49B-87C2": {
@@ -1330,7 +1330,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 15,
+      "build_used": 16,
       "ticket": "8d75b8ba8146e83add692f679489ed5b145d9b42fb9b78a76dbea12154a8832c"
     },
     "HD-D298-EE59-4F6D-F0D7": {
@@ -1837,15 +1837,6 @@
       "build_used": 0,
       "ticket": "6309d93cb876ec90c6cb7a1615737d0577bddc0427f0a266b2245ffd7fe8b150"
     },
-    "HD-33CF-AB08-E31A-A7F8": {
-      "enabled": true,
-      "expire": "2027-10-06",
-      "wipe": false,
-      "build_limit": 1000,
-      "build_off": false,
-      "build_used": 0,
-      "ticket": "1bd3549c18aa90164b21dfd5a12f7dfbd98f74e44276e5bd500dc7e86b3daa8c"
-    },
     "HD-B903-FBA3-34C7-7CDB": {
       "enabled": true,
       "expire": "2027-10-06",
@@ -1978,7 +1969,7 @@
       "wipe": false,
       "build_limit": 1000,
       "build_off": false,
-      "build_used": 0,
+      "build_used": 2,
       "ticket": "2bbdac5c58c6e7fb7ff16476ba5445c2911e622a4e010c8a13d464f99c7ed6ad"
     },
     "HD-EAB6-802A-E5D7-293F": {
