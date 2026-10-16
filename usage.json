@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "updated": "2026-10-13 17:09:43",
+  "updated": "2026-10-16 11:32:11",
   "hwids": {
     "HD-C61A-B830-790B-4CD2": {
       "stats": {
         "BUILD": {
-          "try": 84,
-          "ok": 55,
-          "fail": 29
+          "try": 99,
+          "ok": 64,
+          "fail": 35
         },
         "BUILD_SUPER_FIX": {
           "try": 7,
@@ -247,8 +247,8 @@
     "HD-9116-0E73-F727-0445": {
       "stats": {
         "BUILD": {
-          "try": 30,
-          "ok": 25,
+          "try": 35,
+          "ok": 30,
           "fail": 5
         }
       },
@@ -259,9 +259,9 @@
     "HD-DFFE-6BCE-EB68-97D2": {
       "stats": {
         "BUILD": {
-          "try": 45,
-          "ok": 16,
-          "fail": 29
+          "try": 64,
+          "ok": 21,
+          "fail": 43
         }
       },
       "last_ok": {},
@@ -271,9 +271,9 @@
     "HD-5B74-51CD-5D7A-33CB": {
       "stats": {
         "BUILD": {
-          "try": 22,
-          "ok": 9,
-          "fail": 13
+          "try": 28,
+          "ok": 11,
+          "fail": 17
         }
       },
       "last_ok": {},
@@ -283,8 +283,8 @@
     "HD-8454-6D60-1E6D-3216": {
       "stats": {
         "BUILD": {
-          "try": 5,
-          "ok": 5,
+          "try": 6,
+          "ok": 6,
           "fail": 0
         }
       },
@@ -307,8 +307,8 @@
     "HD-ED36-B553-A127-CD0A": {
       "stats": {
         "BUILD": {
-          "try": 68,
-          "ok": 42,
+          "try": 73,
+          "ok": 47,
           "fail": 26
         }
       },
@@ -331,9 +331,9 @@
     "HD-8BB7-53B5-0550-D0FF": {
       "stats": {
         "BUILD": {
-          "try": 29,
-          "ok": 12,
-          "fail": 17
+          "try": 49,
+          "ok": 14,
+          "fail": 35
         }
       },
       "last_ok": {},
@@ -355,8 +355,8 @@
     "HD-EF3C-4115-4BB7-28D3": {
       "stats": {
         "BUILD": {
-          "try": 9,
-          "ok": 7,
+          "try": 13,
+          "ok": 11,
           "fail": 2
         }
       },
@@ -427,8 +427,8 @@
     "HD-8FAA-FA95-C9B7-91D3": {
       "stats": {
         "BUILD": {
-          "try": 11,
-          "ok": 5,
+          "try": 17,
+          "ok": 11,
           "fail": 6
         }
       },
@@ -487,8 +487,8 @@
     "HD-6EE5-A2A0-7319-E290": {
       "stats": {
         "BUILD": {
-          "try": 5,
-          "ok": 5,
+          "try": 9,
+          "ok": 9,
           "fail": 0
         }
       },
@@ -499,9 +499,9 @@
     "HD-57B2-F31B-B7D8-B772": {
       "stats": {
         "BUILD": {
-          "try": 38,
-          "ok": 15,
-          "fail": 23
+          "try": 42,
+          "ok": 18,
+          "fail": 24
         }
       },
       "last_ok": {},
@@ -523,8 +523,8 @@
     "HD-BE2D-1DD2-4EDD-B75F": {
       "stats": {
         "BUILD": {
-          "try": 40,
-          "ok": 21,
+          "try": 43,
+          "ok": 24,
           "fail": 19
         }
       },
@@ -547,8 +547,8 @@
     "HD-40F2-AF8F-6ABF-5597": {
       "stats": {
         "BUILD": {
-          "try": 3,
-          "ok": 3,
+          "try": 5,
+          "ok": 5,
           "fail": 0
         }
       },
@@ -571,8 +571,8 @@
     "HD-0B18-65A6-13D7-C0F6": {
       "stats": {
         "BUILD": {
-          "try": 12,
-          "ok": 4,
+          "try": 13,
+          "ok": 5,
           "fail": 8
         }
       },
@@ -583,9 +583,9 @@
     "HD-51AC-495C-6596-6C9E": {
       "stats": {
         "BUILD": {
-          "try": 13,
-          "ok": 5,
-          "fail": 8
+          "try": 16,
+          "ok": 7,
+          "fail": 9
         }
       },
       "last_ok": {},
@@ -595,8 +595,8 @@
     "HD-318E-29F2-8A8C-7324": {
       "stats": {
         "BUILD": {
-          "try": 24,
-          "ok": 17,
+          "try": 25,
+          "ok": 18,
           "fail": 7
         }
       },
@@ -667,8 +667,8 @@
     "HD-5022-CDB5-7409-738E": {
       "stats": {
         "BUILD": {
-          "try": 6,
-          "ok": 6,
+          "try": 12,
+          "ok": 12,
           "fail": 0
         }
       },
@@ -679,8 +679,8 @@
     "HD-3E4D-9F68-C262-FE1E": {
       "stats": {
         "BUILD": {
-          "try": 12,
-          "ok": 12,
+          "try": 14,
+          "ok": 14,
           "fail": 0
         }
       },
@@ -703,8 +703,8 @@
     "HD-E4BC-B619-6DAE-23F3": {
       "stats": {
         "BUILD": {
-          "try": 25,
-          "ok": 19,
+          "try": 28,
+          "ok": 22,
           "fail": 6
         }
       },
@@ -715,8 +715,8 @@
     "HD-44C4-8E82-D82A-02CD": {
       "stats": {
         "BUILD": {
-          "try": 10,
-          "ok": 10,
+          "try": 12,
+          "ok": 12,
           "fail": 0
         }
       },
@@ -739,8 +739,8 @@
     "HD-ECF8-659A-78EA-BE2D": {
       "stats": {
         "BUILD": {
-          "try": 9,
-          "ok": 3,
+          "try": 10,
+          "ok": 4,
           "fail": 6
         }
       },
@@ -763,8 +763,8 @@
     "HD-CABE-A80D-FE1B-F846": {
       "stats": {
         "BUILD": {
-          "try": 10,
-          "ok": 3,
+          "try": 12,
+          "ok": 5,
           "fail": 7
         }
       },
@@ -787,8 +787,8 @@
     "HD-633F-434F-ADD5-33A3": {
       "stats": {
         "BUILD": {
-          "try": 24,
-          "ok": 14,
+          "try": 28,
+          "ok": 18,
           "fail": 10
         }
       },
@@ -811,8 +811,8 @@
     "HD-A5AF-286B-106F-531D": {
       "stats": {
         "BUILD": {
-          "try": 9,
-          "ok": 5,
+          "try": 10,
+          "ok": 6,
           "fail": 4
         }
       },
@@ -907,8 +907,8 @@
     "HD-A7B5-6260-AD92-9487": {
       "stats": {
         "BUILD": {
-          "try": 23,
-          "ok": 15,
+          "try": 27,
+          "ok": 19,
           "fail": 8
         }
       },
@@ -931,8 +931,8 @@
     "HD-D2FF-DB29-D93C-705A": {
       "stats": {
         "BUILD": {
-          "try": 8,
-          "ok": 4,
+          "try": 9,
+          "ok": 5,
           "fail": 4
         }
       },
@@ -967,8 +967,8 @@
     "HD-EC4E-E989-2BD4-5E00": {
       "stats": {
         "BUILD": {
-          "try": 42,
-          "ok": 24,
+          "try": 47,
+          "ok": 29,
           "fail": 18
         }
       },
@@ -1027,8 +1027,8 @@
     "HD-E95E-1F2F-C6A5-791D": {
       "stats": {
         "BUILD": {
-          "try": 6,
-          "ok": 6,
+          "try": 8,
+          "ok": 8,
           "fail": 0
         }
       },
@@ -1039,9 +1039,9 @@
     "HD-399C-6D68-27B3-0127": {
       "stats": {
         "BUILD": {
-          "try": 41,
-          "ok": 40,
-          "fail": 1
+          "try": 51,
+          "ok": 49,
+          "fail": 2
         }
       },
       "last_ok": {},
@@ -1087,8 +1087,8 @@
     "HD-F3BE-62E1-45EA-8E64": {
       "stats": {
         "BUILD": {
-          "try": 2,
-          "ok": 2,
+          "try": 4,
+          "ok": 4,
           "fail": 0
         }
       },
@@ -1135,8 +1135,8 @@
     "HD-B656-D2FB-29E2-8C05": {
       "stats": {
         "BUILD": {
-          "try": 10,
-          "ok": 10,
+          "try": 11,
+          "ok": 11,
           "fail": 0
         }
       },
@@ -1159,8 +1159,8 @@
     "HD-29EC-7304-C0E5-2C5E": {
       "stats": {
         "BUILD": {
-          "try": 42,
-          "ok": 29,
+          "try": 44,
+          "ok": 31,
           "fail": 13
         }
       },
@@ -1171,9 +1171,9 @@
     "HD-D29C-7AE0-0C11-67B4": {
       "stats": {
         "BUILD": {
-          "try": 23,
-          "ok": 13,
-          "fail": 10
+          "try": 34,
+          "ok": 20,
+          "fail": 14
         }
       },
       "last_ok": {},
@@ -1219,8 +1219,8 @@
     "HD-64CB-693F-62B0-3EE3": {
       "stats": {
         "BUILD": {
-          "try": 34,
-          "ok": 24,
+          "try": 36,
+          "ok": 26,
           "fail": 10
         }
       },
@@ -1267,8 +1267,8 @@
     "HD-F4FD-8A19-9A25-C216": {
       "stats": {
         "BUILD": {
-          "try": 24,
-          "ok": 14,
+          "try": 26,
+          "ok": 16,
           "fail": 10
         }
       },
@@ -1303,8 +1303,8 @@
     "HD-5385-30FA-1B1B-F18C": {
       "stats": {
         "BUILD": {
-          "try": 21,
-          "ok": 21,
+          "try": 22,
+          "ok": 22,
           "fail": 0
         }
       },
@@ -1339,9 +1339,9 @@
     "HD-6B14-0A54-9E28-D883": {
       "stats": {
         "BUILD": {
-          "try": 25,
-          "ok": 17,
-          "fail": 8
+          "try": 32,
+          "ok": 22,
+          "fail": 10
         }
       },
       "last_ok": {},
@@ -1351,8 +1351,8 @@
     "HD-A0D3-FFB6-FA78-8A3C": {
       "stats": {
         "BUILD": {
-          "try": 45,
-          "ok": 23,
+          "try": 46,
+          "ok": 24,
           "fail": 22
         }
       },
@@ -1423,8 +1423,8 @@
     "HD-94DE-B61D-A9F0-1088": {
       "stats": {
         "BUILD": {
-          "try": 11,
-          "ok": 7,
+          "try": 13,
+          "ok": 9,
           "fail": 4
         }
       },
@@ -1495,8 +1495,8 @@
     "HD-96E5-5855-AF5E-E304": {
       "stats": {
         "BUILD": {
-          "try": 8,
-          "ok": 4,
+          "try": 13,
+          "ok": 9,
           "fail": 4
         }
       },
@@ -1531,8 +1531,8 @@
     "HD-7E41-F56D-FD6F-013C": {
       "stats": {
         "BUILD": {
-          "try": 3,
-          "ok": 3,
+          "try": 7,
+          "ok": 7,
           "fail": 0
         }
       },
@@ -1543,8 +1543,8 @@
     "HD-F56E-44E4-DE85-9E56": {
       "stats": {
         "BUILD": {
-          "try": 1,
-          "ok": 1,
+          "try": 3,
+          "ok": 3,
           "fail": 0
         }
       },
@@ -1555,8 +1555,8 @@
     "HD-0F56-E196-68D7-797D": {
       "stats": {
         "BUILD": {
-          "try": 11,
-          "ok": 11,
+          "try": 13,
+          "ok": 13,
           "fail": 0
         }
       },
@@ -1639,8 +1639,8 @@
     "HD-30F1-A153-0FBD-B5B5": {
       "stats": {
         "BUILD": {
-          "try": 1,
-          "ok": 1,
+          "try": 2,
+          "ok": 2,
           "fail": 0
         }
       },
@@ -1675,9 +1675,9 @@
     "HD-73FE-AEF6-40D8-40AE": {
       "stats": {
         "BUILD": {
-          "try": 1,
-          "ok": 1,
-          "fail": 0
+          "try": 7,
+          "ok": 5,
+          "fail": 2
         }
       },
       "last_ok": {},
@@ -1747,6 +1747,66 @@
     "HD-6AD8-F558-863B-AAFB": {
       "stats": {
         "BUILD": {
+          "try": 9,
+          "ok": 9,
+          "fail": 0
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-2377-283E-D154-040D": {
+      "stats": {
+        "BUILD": {
+          "try": 4,
+          "ok": 4,
+          "fail": 0
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-66CB-70E0-E41E-A4BA": {
+      "stats": {
+        "BUILD": {
+          "try": 3,
+          "ok": 3,
+          "fail": 0
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-0CFA-DF29-5EA9-521D": {
+      "stats": {
+        "BUILD": {
+          "try": 4,
+          "ok": 2,
+          "fail": 2
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-808D-815A-F3D7-A812": {
+      "stats": {
+        "BUILD": {
+          "try": 1,
+          "ok": 1,
+          "fail": 0
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-B614-4DB1-1843-110D": {
+      "stats": {
+        "BUILD": {
           "try": 2,
           "ok": 2,
           "fail": 0
@@ -1756,7 +1816,19 @@
       "last_fail": {},
       "last_use": {}
     },
-    "HD-2377-283E-D154-040D": {
+    "HD-EF3C-E285-127D-9DBF": {
+      "stats": {
+        "BUILD": {
+          "try": 1,
+          "ok": 1,
+          "fail": 0
+        }
+      },
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-2539-56AD-F3FF-1A05": {
       "stats": {
         "BUILD": {
           "try": 2,
@@ -1793,12 +1865,6 @@
       "last_use": {}
     },
     "HD-E785-F606-90B0-777A": {
-      "stats": {},
-      "last_ok": {},
-      "last_fail": {},
-      "last_use": {}
-    },
-    "HD-2539-56AD-F3FF-1A05": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
@@ -2026,12 +2092,6 @@
       "last_fail": {},
       "last_use": {}
     },
-    "HD-66CB-70E0-E41E-A4BA": {
-      "stats": {},
-      "last_ok": {},
-      "last_fail": {},
-      "last_use": {}
-    },
     "HD-B764-8CC9-64B2-CA92": {
       "stats": {},
       "last_ok": {},
@@ -2158,12 +2218,6 @@
       "last_fail": {},
       "last_use": {}
     },
-    "HD-0CFA-DF29-5EA9-521D": {
-      "stats": {},
-      "last_ok": {},
-      "last_fail": {},
-      "last_use": {}
-    },
     "HD-8CB4-9DAA-D881-CC14": {
       "stats": {},
       "last_ok": {},
@@ -2207,18 +2261,6 @@
       "last_use": {}
     },
     "HD-58BA-4982-28E1-7F4C": {
-      "stats": {},
-      "last_ok": {},
-      "last_fail": {},
-      "last_use": {}
-    },
-    "HD-808D-815A-F3D7-A812": {
-      "stats": {},
-      "last_ok": {},
-      "last_fail": {},
-      "last_use": {}
-    },
-    "HD-B614-4DB1-1843-110D": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
@@ -2273,12 +2315,6 @@
       "last_use": {}
     },
     "HD-2900-D766-91A1-0889": {
-      "stats": {},
-      "last_ok": {},
-      "last_fail": {},
-      "last_use": {}
-    },
-    "HD-EF3C-E285-127D-9DBF": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
@@ -2519,6 +2555,12 @@
       "last_use": {}
     },
     "HD-881A-8F6D-A393-EA53": {
+      "stats": {},
+      "last_ok": {},
+      "last_fail": {},
+      "last_use": {}
+    },
+    "HD-4B10-D47A-0F42-31DC": {
       "stats": {},
       "last_ok": {},
       "last_fail": {},
