@@ -1,6 +1,6 @@
 # HoangDuc ALL In One Tool
 
-Bản cài: **V294**
+Bản cài: **V400**
 
 Tải file EXE ở tab **Releases**. File `version.json` bắt buộc cập nhật: bản thấp hơn `min_version` không dùng được.
 
